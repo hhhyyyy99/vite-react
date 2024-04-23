@@ -1,0 +1,2620 @@
+[
+  {
+    "name": ".github",
+    "path": ".github",
+    "sha": "a72190fb0330fc403057a33bde2e615f43b93a70",
+    "size": 0,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/.github?ref=master",
+    "html_url": "https://github.com/rayepps/radash/tree/master/.github",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/trees/a72190fb0330fc403057a33bde2e615f43b93a70",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/.github?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/trees/a72190fb0330fc403057a33bde2e615f43b93a70",
+      "html": "https://github.com/rayepps/radash/tree/master/.github"
+    },
+    "children": []
+  },
+  {
+    "name": "contributing.md",
+    "path": ".github/contributing.md",
+    "sha": "e226b88aa576145e678e07a2f863b3cec3d7d124",
+    "size": 3561,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/.github/contributing.md?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/.github/contributing.md",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/e226b88aa576145e678e07a2f863b3cec3d7d124",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/.github/contributing.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/.github/contributing.md?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/e226b88aa576145e678e07a2f863b3cec3d7d124",
+      "html": "https://github.com/rayepps/radash/blob/master/.github/contributing.md"
+    },
+    "children": []
+  },
+  {
+    "name": "dependabot.yml",
+    "path": ".github/dependabot.yml",
+    "sha": "f597142a2071e2083eff311e48499a174ed867de",
+    "size": 503,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/.github/dependabot.yml?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/.github/dependabot.yml",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/f597142a2071e2083eff311e48499a174ed867de",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/.github/dependabot.yml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/.github/dependabot.yml?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/f597142a2071e2083eff311e48499a174ed867de",
+      "html": "https://github.com/rayepps/radash/blob/master/.github/dependabot.yml"
+    },
+    "children": []
+  },
+  {
+    "name": "pull_request_template.md",
+    "path": ".github/pull_request_template.md",
+    "sha": "bd888d23f6a09afa8d7152dc3491d2ac003aff28",
+    "size": 603,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/.github/pull_request_template.md?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/.github/pull_request_template.md",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/bd888d23f6a09afa8d7152dc3491d2ac003aff28",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/.github/pull_request_template.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/.github/pull_request_template.md?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/bd888d23f6a09afa8d7152dc3491d2ac003aff28",
+      "html": "https://github.com/rayepps/radash/blob/master/.github/pull_request_template.md"
+    },
+    "children": []
+  },
+  {
+    "name": "workflows",
+    "path": ".github/workflows",
+    "sha": "3c975d32a92d1655382ba7b0c48be7e3f004e06c",
+    "size": 0,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/.github/workflows?ref=master",
+    "html_url": "https://github.com/rayepps/radash/tree/master/.github/workflows",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/trees/3c975d32a92d1655382ba7b0c48be7e3f004e06c",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/.github/workflows?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/trees/3c975d32a92d1655382ba7b0c48be7e3f004e06c",
+      "html": "https://github.com/rayepps/radash/tree/master/.github/workflows"
+    },
+    "children": []
+  },
+  {
+    "name": "README.md",
+    "path": ".github/workflows/README.md",
+    "sha": "0f3595539d74651b923c483bcb64b3299475cf9e",
+    "size": 705,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/.github/workflows/README.md?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/.github/workflows/README.md",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/0f3595539d74651b923c483bcb64b3299475cf9e",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/.github/workflows/README.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/.github/workflows/README.md?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/0f3595539d74651b923c483bcb64b3299475cf9e",
+      "html": "https://github.com/rayepps/radash/blob/master/.github/workflows/README.md"
+    },
+    "children": []
+  },
+  {
+    "name": "release-and-publish-on-merge.yml",
+    "path": ".github/workflows/release-and-publish-on-merge.yml",
+    "sha": "3822166e68b169bbb595b7cf15f4166f3bc599a6",
+    "size": 1640,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/.github/workflows/release-and-publish-on-merge.yml?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/.github/workflows/release-and-publish-on-merge.yml",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/3822166e68b169bbb595b7cf15f4166f3bc599a6",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/.github/workflows/release-and-publish-on-merge.yml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/.github/workflows/release-and-publish-on-merge.yml?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/3822166e68b169bbb595b7cf15f4166f3bc599a6",
+      "html": "https://github.com/rayepps/radash/blob/master/.github/workflows/release-and-publish-on-merge.yml"
+    },
+    "children": []
+  },
+  {
+    "name": "semver-on-release-labeled-pr.yml",
+    "path": ".github/workflows/semver-on-release-labeled-pr.yml",
+    "sha": "40d8b55051248248b672599b8f1d88ac92adbc42",
+    "size": 1469,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/.github/workflows/semver-on-release-labeled-pr.yml?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/.github/workflows/semver-on-release-labeled-pr.yml",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/40d8b55051248248b672599b8f1d88ac92adbc42",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/.github/workflows/semver-on-release-labeled-pr.yml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/.github/workflows/semver-on-release-labeled-pr.yml?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/40d8b55051248248b672599b8f1d88ac92adbc42",
+      "html": "https://github.com/rayepps/radash/blob/master/.github/workflows/semver-on-release-labeled-pr.yml"
+    },
+    "children": []
+  },
+  {
+    "name": "test-on-master.yml",
+    "path": ".github/workflows/test-on-master.yml",
+    "sha": "bffa44edd5aaaf71b82c966cf98a9c1cba6c9e64",
+    "size": 413,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/.github/workflows/test-on-master.yml?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/.github/workflows/test-on-master.yml",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/bffa44edd5aaaf71b82c966cf98a9c1cba6c9e64",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/.github/workflows/test-on-master.yml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/.github/workflows/test-on-master.yml?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/bffa44edd5aaaf71b82c966cf98a9c1cba6c9e64",
+      "html": "https://github.com/rayepps/radash/blob/master/.github/workflows/test-on-master.yml"
+    },
+    "children": []
+  },
+  {
+    "name": "test-on-pr.yml",
+    "path": ".github/workflows/test-on-pr.yml",
+    "sha": "173547203908ab74799e26cb4379612c35254379",
+    "size": 1920,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/.github/workflows/test-on-pr.yml?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/.github/workflows/test-on-pr.yml",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/173547203908ab74799e26cb4379612c35254379",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/.github/workflows/test-on-pr.yml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/.github/workflows/test-on-pr.yml?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/173547203908ab74799e26cb4379612c35254379",
+      "html": "https://github.com/rayepps/radash/blob/master/.github/workflows/test-on-pr.yml"
+    },
+    "children": []
+  },
+  {
+    "name": ".gitignore",
+    "path": ".gitignore",
+    "sha": "333fc94671d7f5b5333ee233acfc6987a286c641",
+    "size": 81,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/.gitignore?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/.gitignore",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/333fc94671d7f5b5333ee233acfc6987a286c641",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/.gitignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/.gitignore?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/333fc94671d7f5b5333ee233acfc6987a286c641",
+      "html": "https://github.com/rayepps/radash/blob/master/.gitignore"
+    },
+    "children": []
+  },
+  {
+    "name": ".prettierrc",
+    "path": ".prettierrc",
+    "sha": "6cd3bce0f50ec66e6b1826b84157c2ab80bf4eaa",
+    "size": 221,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/.prettierrc?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/.prettierrc",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/6cd3bce0f50ec66e6b1826b84157c2ab80bf4eaa",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/.prettierrc",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/.prettierrc?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/6cd3bce0f50ec66e6b1826b84157c2ab80bf4eaa",
+      "html": "https://github.com/rayepps/radash/blob/master/.prettierrc"
+    },
+    "children": []
+  },
+  {
+    "name": "LICENSE.md",
+    "path": "LICENSE.md",
+    "sha": "ea3a1a7e4171d0014966ce6035986fbbfb6b6b27",
+    "size": 1062,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/LICENSE.md?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/LICENSE.md",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/ea3a1a7e4171d0014966ce6035986fbbfb6b6b27",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/LICENSE.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/LICENSE.md?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/ea3a1a7e4171d0014966ce6035986fbbfb6b6b27",
+      "html": "https://github.com/rayepps/radash/blob/master/LICENSE.md"
+    },
+    "children": []
+  },
+  {
+    "name": "README.md",
+    "path": "README.md",
+    "sha": "e8b8024beb6aa49e18d40c5ce3aa99f3923d6441",
+    "size": 2199,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/README.md?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/README.md",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/e8b8024beb6aa49e18d40c5ce3aa99f3923d6441",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/README.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/README.md?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/e8b8024beb6aa49e18d40c5ce3aa99f3923d6441",
+      "html": "https://github.com/rayepps/radash/blob/master/README.md"
+    },
+    "children": []
+  },
+  {
+    "name": "banner.png",
+    "path": "banner.png",
+    "sha": "6fdba4fd1eb2f198710c37be12e33f8485fc1706",
+    "size": 26777,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/banner.png?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/banner.png",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/6fdba4fd1eb2f198710c37be12e33f8485fc1706",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/banner.png",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/banner.png?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/6fdba4fd1eb2f198710c37be12e33f8485fc1706",
+      "html": "https://github.com/rayepps/radash/blob/master/banner.png"
+    },
+    "children": []
+  },
+  {
+    "name": "cdn",
+    "path": "cdn",
+    "sha": "559dae55166884822344c8213d66f07448ce5fee",
+    "size": 0,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/cdn?ref=master",
+    "html_url": "https://github.com/rayepps/radash/tree/master/cdn",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/trees/559dae55166884822344c8213d66f07448ce5fee",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/cdn?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/trees/559dae55166884822344c8213d66f07448ce5fee",
+      "html": "https://github.com/rayepps/radash/tree/master/cdn"
+    },
+    "children": []
+  },
+  {
+    "name": "radash.esm.js",
+    "path": "cdn/radash.esm.js",
+    "sha": "a0a635599e081599f61755e6ac80b133ee414147",
+    "size": 25727,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/cdn/radash.esm.js?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/cdn/radash.esm.js",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/a0a635599e081599f61755e6ac80b133ee414147",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/cdn/radash.esm.js",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/cdn/radash.esm.js?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/a0a635599e081599f61755e6ac80b133ee414147",
+      "html": "https://github.com/rayepps/radash/blob/master/cdn/radash.esm.js"
+    },
+    "children": []
+  },
+  {
+    "name": "radash.js",
+    "path": "cdn/radash.js",
+    "sha": "ca7ebea609986da0c67dbc2bdb665ecd08f7c81a",
+    "size": 29448,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/cdn/radash.js?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/cdn/radash.js",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/ca7ebea609986da0c67dbc2bdb665ecd08f7c81a",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/cdn/radash.js",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/cdn/radash.js?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/ca7ebea609986da0c67dbc2bdb665ecd08f7c81a",
+      "html": "https://github.com/rayepps/radash/blob/master/cdn/radash.js"
+    },
+    "children": []
+  },
+  {
+    "name": "radash.min.js",
+    "path": "cdn/radash.min.js",
+    "sha": "f9363f5026363aa03911c4d69f6efca514a0007d",
+    "size": 12192,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/cdn/radash.min.js?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/cdn/radash.min.js",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/f9363f5026363aa03911c4d69f6efca514a0007d",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/cdn/radash.min.js",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/cdn/radash.min.js?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/f9363f5026363aa03911c4d69f6efca514a0007d",
+      "html": "https://github.com/rayepps/radash/blob/master/cdn/radash.min.js"
+    },
+    "children": []
+  },
+  {
+    "name": "chiller.json",
+    "path": "chiller.json",
+    "sha": "c2bf6b9f96237ab6cdc87f19e4739a8d7ce40b08",
+    "size": 1043,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/chiller.json?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/chiller.json",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/c2bf6b9f96237ab6cdc87f19e4739a8d7ce40b08",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/chiller.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/chiller.json?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/c2bf6b9f96237ab6cdc87f19e4739a8d7ce40b08",
+      "html": "https://github.com/rayepps/radash/blob/master/chiller.json"
+    },
+    "children": []
+  },
+  {
+    "name": "docs",
+    "path": "docs",
+    "sha": "b25c4e22f13f9798bcb8ec264a43473e64d27a26",
+    "size": 0,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs?ref=master",
+    "html_url": "https://github.com/rayepps/radash/tree/master/docs",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/trees/b25c4e22f13f9798bcb8ec264a43473e64d27a26",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/trees/b25c4e22f13f9798bcb8ec264a43473e64d27a26",
+      "html": "https://github.com/rayepps/radash/tree/master/docs"
+    },
+    "children": []
+  },
+  {
+    "name": "array",
+    "path": "docs/array",
+    "sha": "4b15e8d695d4b77677111c967b83986ad1b63a9c",
+    "size": 0,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/array?ref=master",
+    "html_url": "https://github.com/rayepps/radash/tree/master/docs/array",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/trees/4b15e8d695d4b77677111c967b83986ad1b63a9c",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/array?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/trees/4b15e8d695d4b77677111c967b83986ad1b63a9c",
+      "html": "https://github.com/rayepps/radash/tree/master/docs/array"
+    },
+    "children": []
+  },
+  {
+    "name": "alphabetical.mdx",
+    "path": "docs/array/alphabetical.mdx",
+    "sha": "829bb3086a1c390e850028cbf2ba8a7bdcbfdaaa",
+    "size": 823,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/array/alphabetical.mdx?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/array/alphabetical.mdx",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/829bb3086a1c390e850028cbf2ba8a7bdcbfdaaa",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/array/alphabetical.mdx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/array/alphabetical.mdx?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/829bb3086a1c390e850028cbf2ba8a7bdcbfdaaa",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/array/alphabetical.mdx"
+    },
+    "children": []
+  },
+  {
+    "name": "boil.mdx",
+    "path": "docs/array/boil.mdx",
+    "sha": "3e6ed8aa22043cd4662e7f997d9de4118a1281b2",
+    "size": 491,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/array/boil.mdx?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/array/boil.mdx",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/3e6ed8aa22043cd4662e7f997d9de4118a1281b2",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/array/boil.mdx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/array/boil.mdx?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/3e6ed8aa22043cd4662e7f997d9de4118a1281b2",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/array/boil.mdx"
+    },
+    "children": []
+  },
+  {
+    "name": "cluster.mdx",
+    "path": "docs/array/cluster.mdx",
+    "sha": "19f64237cce5351ebdbf5b445f48ade025ec4cbc",
+    "size": 586,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/array/cluster.mdx?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/array/cluster.mdx",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/19f64237cce5351ebdbf5b445f48ade025ec4cbc",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/array/cluster.mdx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/array/cluster.mdx?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/19f64237cce5351ebdbf5b445f48ade025ec4cbc",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/array/cluster.mdx"
+    },
+    "children": []
+  },
+  {
+    "name": "counting.mdx",
+    "path": "docs/array/counting.mdx",
+    "sha": "4c04fcc8236a86daa0c433f900ed70daaae29304",
+    "size": 642,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/array/counting.mdx?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/array/counting.mdx",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/4c04fcc8236a86daa0c433f900ed70daaae29304",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/array/counting.mdx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/array/counting.mdx?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/4c04fcc8236a86daa0c433f900ed70daaae29304",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/array/counting.mdx"
+    },
+    "children": []
+  },
+  {
+    "name": "diff.mdx",
+    "path": "docs/array/diff.mdx",
+    "sha": "4d6beefe825fd907ba06b85fc781c9f1d14fd5f4",
+    "size": 396,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/array/diff.mdx?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/array/diff.mdx",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/4d6beefe825fd907ba06b85fc781c9f1d14fd5f4",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/array/diff.mdx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/array/diff.mdx?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/4d6beefe825fd907ba06b85fc781c9f1d14fd5f4",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/array/diff.mdx"
+    },
+    "children": []
+  },
+  {
+    "name": "first.mdx",
+    "path": "docs/array/first.mdx",
+    "sha": "8c5fbd086ed7e17a2f3fb58bcc1578a364f0d41a",
+    "size": 320,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/array/first.mdx?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/array/first.mdx",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/8c5fbd086ed7e17a2f3fb58bcc1578a364f0d41a",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/array/first.mdx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/array/first.mdx?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/8c5fbd086ed7e17a2f3fb58bcc1578a364f0d41a",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/array/first.mdx"
+    },
+    "children": []
+  },
+  {
+    "name": "flat.mdx",
+    "path": "docs/array/flat.mdx",
+    "sha": "f5d09c09a4140898937c0eea654a4245e6d63eb6",
+    "size": 511,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/array/flat.mdx?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/array/flat.mdx",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/f5d09c09a4140898937c0eea654a4245e6d63eb6",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/array/flat.mdx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/array/flat.mdx?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/f5d09c09a4140898937c0eea654a4245e6d63eb6",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/array/flat.mdx"
+    },
+    "children": []
+  },
+  {
+    "name": "fork.mdx",
+    "path": "docs/array/fork.mdx",
+    "sha": "5364dc4ca67e25b42785aa70630be8e59fe07810",
+    "size": 612,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/array/fork.mdx?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/array/fork.mdx",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/5364dc4ca67e25b42785aa70630be8e59fe07810",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/array/fork.mdx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/array/fork.mdx?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/5364dc4ca67e25b42785aa70630be8e59fe07810",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/array/fork.mdx"
+    },
+    "children": []
+  },
+  {
+    "name": "group.mdx",
+    "path": "docs/array/group.mdx",
+    "sha": "c3e7b4dada8f7ed293a74fab4b5d659ee5071b04",
+    "size": 578,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/array/group.mdx?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/array/group.mdx",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/c3e7b4dada8f7ed293a74fab4b5d659ee5071b04",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/array/group.mdx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/array/group.mdx?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/c3e7b4dada8f7ed293a74fab4b5d659ee5071b04",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/array/group.mdx"
+    },
+    "children": []
+  },
+  {
+    "name": "intersects.mdx",
+    "path": "docs/array/intersects.mdx",
+    "sha": "68b66db36dcac96fa7ba025631cbb28f71be3124",
+    "size": 444,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/array/intersects.mdx?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/array/intersects.mdx",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/68b66db36dcac96fa7ba025631cbb28f71be3124",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/array/intersects.mdx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/array/intersects.mdx?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/68b66db36dcac96fa7ba025631cbb28f71be3124",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/array/intersects.mdx"
+    },
+    "children": []
+  },
+  {
+    "name": "iterate.mdx",
+    "path": "docs/array/iterate.mdx",
+    "sha": "79eaa93f01baef2a79b8f42f78b70456979a680f",
+    "size": 690,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/array/iterate.mdx?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/array/iterate.mdx",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/79eaa93f01baef2a79b8f42f78b70456979a680f",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/array/iterate.mdx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/array/iterate.mdx?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/79eaa93f01baef2a79b8f42f78b70456979a680f",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/array/iterate.mdx"
+    },
+    "children": []
+  },
+  {
+    "name": "last.mdx",
+    "path": "docs/array/last.mdx",
+    "sha": "4decf0b1981e7ec6e4d4fa8b1bfdf85bebc58826",
+    "size": 352,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/array/last.mdx?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/array/last.mdx",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/4decf0b1981e7ec6e4d4fa8b1bfdf85bebc58826",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/array/last.mdx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/array/last.mdx?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/4decf0b1981e7ec6e4d4fa8b1bfdf85bebc58826",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/array/last.mdx"
+    },
+    "children": []
+  },
+  {
+    "name": "list.mdx",
+    "path": "docs/array/list.mdx",
+    "sha": "c993ae4d6c9481d5a6e91d8a0ce5f44e7b1567d5",
+    "size": 1653,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/array/list.mdx?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/array/list.mdx",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/c993ae4d6c9481d5a6e91d8a0ce5f44e7b1567d5",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/array/list.mdx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/array/list.mdx?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/c993ae4d6c9481d5a6e91d8a0ce5f44e7b1567d5",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/array/list.mdx"
+    },
+    "children": []
+  },
+  {
+    "name": "max.mdx",
+    "path": "docs/array/max.mdx",
+    "sha": "dd432ee04b3a986b6193057945c99dc063a46788",
+    "size": 566,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/array/max.mdx?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/array/max.mdx",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/dd432ee04b3a986b6193057945c99dc063a46788",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/array/max.mdx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/array/max.mdx?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/dd432ee04b3a986b6193057945c99dc063a46788",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/array/max.mdx"
+    },
+    "children": []
+  },
+  {
+    "name": "merge.mdx",
+    "path": "docs/array/merge.mdx",
+    "sha": "711d6fb64dd505f214e38f779ec37de19bfc3439",
+    "size": 545,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/array/merge.mdx?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/array/merge.mdx",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/711d6fb64dd505f214e38f779ec37de19bfc3439",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/array/merge.mdx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/array/merge.mdx?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/711d6fb64dd505f214e38f779ec37de19bfc3439",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/array/merge.mdx"
+    },
+    "children": []
+  },
+  {
+    "name": "min.mdx",
+    "path": "docs/array/min.mdx",
+    "sha": "0c08640b28ab804b939775fc3ae38b904eba57e9",
+    "size": 563,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/array/min.mdx?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/array/min.mdx",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/0c08640b28ab804b939775fc3ae38b904eba57e9",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/array/min.mdx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/array/min.mdx?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/0c08640b28ab804b939775fc3ae38b904eba57e9",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/array/min.mdx"
+    },
+    "children": []
+  },
+  {
+    "name": "objectify.mdx",
+    "path": "docs/array/objectify.mdx",
+    "sha": "0c5aec290dc213314a9762c0606c2f7455990522",
+    "size": 756,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/array/objectify.mdx?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/array/objectify.mdx",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/0c5aec290dc213314a9762c0606c2f7455990522",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/array/objectify.mdx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/array/objectify.mdx?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/0c5aec290dc213314a9762c0606c2f7455990522",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/array/objectify.mdx"
+    },
+    "children": []
+  },
+  {
+    "name": "range.mdx",
+    "path": "docs/array/range.mdx",
+    "sha": "9083c8d0bed641c762924393a6129f297c0d7018",
+    "size": 2119,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/array/range.mdx?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/array/range.mdx",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/9083c8d0bed641c762924393a6129f297c0d7018",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/array/range.mdx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/array/range.mdx?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/9083c8d0bed641c762924393a6129f297c0d7018",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/array/range.mdx"
+    },
+    "children": []
+  },
+  {
+    "name": "replace-or-append.mdx",
+    "path": "docs/array/replace-or-append.mdx",
+    "sha": "903e08c0e900e6279398419fb8e0e22798041677",
+    "size": 812,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/array/replace-or-append.mdx?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/array/replace-or-append.mdx",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/903e08c0e900e6279398419fb8e0e22798041677",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/array/replace-or-append.mdx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/array/replace-or-append.mdx?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/903e08c0e900e6279398419fb8e0e22798041677",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/array/replace-or-append.mdx"
+    },
+    "children": []
+  },
+  {
+    "name": "replace.mdx",
+    "path": "docs/array/replace.mdx",
+    "sha": "7b9d0f6578a5f9c0117018922aa2e584c3980c5d",
+    "size": 631,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/array/replace.mdx?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/array/replace.mdx",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/7b9d0f6578a5f9c0117018922aa2e584c3980c5d",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/array/replace.mdx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/array/replace.mdx?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/7b9d0f6578a5f9c0117018922aa2e584c3980c5d",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/array/replace.mdx"
+    },
+    "children": []
+  },
+  {
+    "name": "select.mdx",
+    "path": "docs/array/select.mdx",
+    "sha": "91146f9f3ac604583c70e3d5b46a55e8cce10e96",
+    "size": 480,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/array/select.mdx?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/array/select.mdx",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/91146f9f3ac604583c70e3d5b46a55e8cce10e96",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/array/select.mdx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/array/select.mdx?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/91146f9f3ac604583c70e3d5b46a55e8cce10e96",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/array/select.mdx"
+    },
+    "children": []
+  },
+  {
+    "name": "shift.mdx",
+    "path": "docs/array/shift.mdx",
+    "sha": "ce616d2820bee52bead8c031e5a9f45c2fbd515b",
+    "size": 294,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/array/shift.mdx?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/array/shift.mdx",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/ce616d2820bee52bead8c031e5a9f45c2fbd515b",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/array/shift.mdx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/array/shift.mdx?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/ce616d2820bee52bead8c031e5a9f45c2fbd515b",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/array/shift.mdx"
+    },
+    "children": []
+  },
+  {
+    "name": "sift.mdx",
+    "path": "docs/array/sift.mdx",
+    "sha": "be32480639ce2743c098f4be8e1c34c4fe1823b1",
+    "size": 325,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/array/sift.mdx?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/array/sift.mdx",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/be32480639ce2743c098f4be8e1c34c4fe1823b1",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/array/sift.mdx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/array/sift.mdx?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/be32480639ce2743c098f4be8e1c34c4fe1823b1",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/array/sift.mdx"
+    },
+    "children": []
+  },
+  {
+    "name": "sort.mdx",
+    "path": "docs/array/sort.mdx",
+    "sha": "a2943fd22243f28443f780ab84337e535abdabbb",
+    "size": 756,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/array/sort.mdx?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/array/sort.mdx",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/a2943fd22243f28443f780ab84337e535abdabbb",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/array/sort.mdx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/array/sort.mdx?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/a2943fd22243f28443f780ab84337e535abdabbb",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/array/sort.mdx"
+    },
+    "children": []
+  },
+  {
+    "name": "sum.mdx",
+    "path": "docs/array/sum.mdx",
+    "sha": "1ffabbbbf92b1a337ac61959500e2a2ed7ee887f",
+    "size": 418,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/array/sum.mdx?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/array/sum.mdx",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/1ffabbbbf92b1a337ac61959500e2a2ed7ee887f",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/array/sum.mdx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/array/sum.mdx?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/1ffabbbbf92b1a337ac61959500e2a2ed7ee887f",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/array/sum.mdx"
+    },
+    "children": []
+  },
+  {
+    "name": "toggle.mdx",
+    "path": "docs/array/toggle.mdx",
+    "sha": "55a2142107fca6a24819e8312b338285231541fb",
+    "size": 1262,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/array/toggle.mdx?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/array/toggle.mdx",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/55a2142107fca6a24819e8312b338285231541fb",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/array/toggle.mdx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/array/toggle.mdx?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/55a2142107fca6a24819e8312b338285231541fb",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/array/toggle.mdx"
+    },
+    "children": []
+  },
+  {
+    "name": "unique.mdx",
+    "path": "docs/array/unique.mdx",
+    "sha": "82b64fa52f27d6e11d1d40776f73c3262f29929c",
+    "size": 695,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/array/unique.mdx?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/array/unique.mdx",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/82b64fa52f27d6e11d1d40776f73c3262f29929c",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/array/unique.mdx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/array/unique.mdx?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/82b64fa52f27d6e11d1d40776f73c3262f29929c",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/array/unique.mdx"
+    },
+    "children": []
+  },
+  {
+    "name": "zip-to-object.mdx",
+    "path": "docs/array/zip-to-object.mdx",
+    "sha": "45c4c806ca01e0f9495ef3a663aafd2c00dba950",
+    "size": 566,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/array/zip-to-object.mdx?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/array/zip-to-object.mdx",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/45c4c806ca01e0f9495ef3a663aafd2c00dba950",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/array/zip-to-object.mdx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/array/zip-to-object.mdx?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/45c4c806ca01e0f9495ef3a663aafd2c00dba950",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/array/zip-to-object.mdx"
+    },
+    "children": []
+  },
+  {
+    "name": "zip.mdx",
+    "path": "docs/array/zip.mdx",
+    "sha": "1516fa1433951f2265bf9a9cdcfb95e25e24c91a",
+    "size": 496,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/array/zip.mdx?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/array/zip.mdx",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/1516fa1433951f2265bf9a9cdcfb95e25e24c91a",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/array/zip.mdx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/array/zip.mdx?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/1516fa1433951f2265bf9a9cdcfb95e25e24c91a",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/array/zip.mdx"
+    },
+    "children": []
+  },
+  {
+    "name": "async",
+    "path": "docs/async",
+    "sha": "8b4456910a0faea3eb60a4ccbc407f4d81988e7d",
+    "size": 0,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/async?ref=master",
+    "html_url": "https://github.com/rayepps/radash/tree/master/docs/async",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/trees/8b4456910a0faea3eb60a4ccbc407f4d81988e7d",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/async?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/trees/8b4456910a0faea3eb60a4ccbc407f4d81988e7d",
+      "html": "https://github.com/rayepps/radash/tree/master/docs/async"
+    },
+    "children": []
+  },
+  {
+    "name": "all.mdx",
+    "path": "docs/async/all.mdx",
+    "sha": "26993813e2a9a838e0ff6eb16bb6ffc05bcc2890",
+    "size": 909,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/async/all.mdx?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/async/all.mdx",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/26993813e2a9a838e0ff6eb16bb6ffc05bcc2890",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/async/all.mdx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/async/all.mdx?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/26993813e2a9a838e0ff6eb16bb6ffc05bcc2890",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/async/all.mdx"
+    },
+    "children": []
+  },
+  {
+    "name": "defer.mdx",
+    "path": "docs/async/defer.mdx",
+    "sha": "7f43b4aadaee03f26632e24371298363edea8190",
+    "size": 1400,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/async/defer.mdx?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/async/defer.mdx",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/7f43b4aadaee03f26632e24371298363edea8190",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/async/defer.mdx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/async/defer.mdx?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/7f43b4aadaee03f26632e24371298363edea8190",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/async/defer.mdx"
+    },
+    "children": []
+  },
+  {
+    "name": "guard.mdx",
+    "path": "docs/async/guard.mdx",
+    "sha": "0d4179efcfdc707f96b1952bec904e47e1497545",
+    "size": 442,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/async/guard.mdx?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/async/guard.mdx",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/0d4179efcfdc707f96b1952bec904e47e1497545",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/async/guard.mdx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/async/guard.mdx?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/0d4179efcfdc707f96b1952bec904e47e1497545",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/async/guard.mdx"
+    },
+    "children": []
+  },
+  {
+    "name": "map.mdx",
+    "path": "docs/async/map.mdx",
+    "sha": "a41679b1394701804b9a06ecdc3bc97af482f6b6",
+    "size": 336,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/async/map.mdx?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/async/map.mdx",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/a41679b1394701804b9a06ecdc3bc97af482f6b6",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/async/map.mdx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/async/map.mdx?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/a41679b1394701804b9a06ecdc3bc97af482f6b6",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/async/map.mdx"
+    },
+    "children": []
+  },
+  {
+    "name": "parallel.mdx",
+    "path": "docs/async/parallel.mdx",
+    "sha": "37cd9c99cb60e77948d1838bf6c4b466f27694ee",
+    "size": 1218,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/async/parallel.mdx?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/async/parallel.mdx",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/37cd9c99cb60e77948d1838bf6c4b466f27694ee",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/async/parallel.mdx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/async/parallel.mdx?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/37cd9c99cb60e77948d1838bf6c4b466f27694ee",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/async/parallel.mdx"
+    },
+    "children": []
+  },
+  {
+    "name": "reduce.mdx",
+    "path": "docs/async/reduce.mdx",
+    "sha": "8bcccaceb70f18c78af4a8833c3736ee01146f25",
+    "size": 412,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/async/reduce.mdx?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/async/reduce.mdx",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/8bcccaceb70f18c78af4a8833c3736ee01146f25",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/async/reduce.mdx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/async/reduce.mdx?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/8bcccaceb70f18c78af4a8833c3736ee01146f25",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/async/reduce.mdx"
+    },
+    "children": []
+  },
+  {
+    "name": "retry.mdx",
+    "path": "docs/async/retry.mdx",
+    "sha": "6ba95ce6416072a63a5bb67941d6be48c68dda94",
+    "size": 946,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/async/retry.mdx?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/async/retry.mdx",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/6ba95ce6416072a63a5bb67941d6be48c68dda94",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/async/retry.mdx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/async/retry.mdx?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/6ba95ce6416072a63a5bb67941d6be48c68dda94",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/async/retry.mdx"
+    },
+    "children": []
+  },
+  {
+    "name": "sleep.mdx",
+    "path": "docs/async/sleep.mdx",
+    "sha": "e7916894081999e44bc4eb331834f133a1ebd02e",
+    "size": 257,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/async/sleep.mdx?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/async/sleep.mdx",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/e7916894081999e44bc4eb331834f133a1ebd02e",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/async/sleep.mdx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/async/sleep.mdx?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/e7916894081999e44bc4eb331834f133a1ebd02e",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/async/sleep.mdx"
+    },
+    "children": []
+  },
+  {
+    "name": "tryit.mdx",
+    "path": "docs/async/tryit.mdx",
+    "sha": "1975186477a1854c743eb7510ee36de52953ed6d",
+    "size": 629,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/async/tryit.mdx?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/async/tryit.mdx",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/1975186477a1854c743eb7510ee36de52953ed6d",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/async/tryit.mdx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/async/tryit.mdx?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/1975186477a1854c743eb7510ee36de52953ed6d",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/async/tryit.mdx"
+    },
+    "children": []
+  },
+  {
+    "name": "core-concepts.mdx",
+    "path": "docs/core-concepts.mdx",
+    "sha": "f96ea0a7f92d4e98d0bf38d34781a3610ea22547",
+    "size": 983,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/core-concepts.mdx?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/core-concepts.mdx",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/f96ea0a7f92d4e98d0bf38d34781a3610ea22547",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/core-concepts.mdx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/core-concepts.mdx?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/f96ea0a7f92d4e98d0bf38d34781a3610ea22547",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/core-concepts.mdx"
+    },
+    "children": []
+  },
+  {
+    "name": "curry",
+    "path": "docs/curry",
+    "sha": "00a76812a55fcd975818fd0ad46b82fb04d7d81e",
+    "size": 0,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/curry?ref=master",
+    "html_url": "https://github.com/rayepps/radash/tree/master/docs/curry",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/trees/00a76812a55fcd975818fd0ad46b82fb04d7d81e",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/curry?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/trees/00a76812a55fcd975818fd0ad46b82fb04d7d81e",
+      "html": "https://github.com/rayepps/radash/tree/master/docs/curry"
+    },
+    "children": []
+  },
+  {
+    "name": "chain.mdx",
+    "path": "docs/curry/chain.mdx",
+    "sha": "3e27f54055a6d62102b573554df0c7b639fb92a3",
+    "size": 1042,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/curry/chain.mdx?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/curry/chain.mdx",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/3e27f54055a6d62102b573554df0c7b639fb92a3",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/curry/chain.mdx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/curry/chain.mdx?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/3e27f54055a6d62102b573554df0c7b639fb92a3",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/curry/chain.mdx"
+    },
+    "children": []
+  },
+  {
+    "name": "compose.mdx",
+    "path": "docs/curry/compose.mdx",
+    "sha": "4c0f828372376112c0d5f799d870d64ee2270403",
+    "size": 906,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/curry/compose.mdx?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/curry/compose.mdx",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/4c0f828372376112c0d5f799d870d64ee2270403",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/curry/compose.mdx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/curry/compose.mdx?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/4c0f828372376112c0d5f799d870d64ee2270403",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/curry/compose.mdx"
+    },
+    "children": []
+  },
+  {
+    "name": "debounce.mdx",
+    "path": "docs/curry/debounce.mdx",
+    "sha": "da28386a191961411cccfe855221efc0104b15a9",
+    "size": 1933,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/curry/debounce.mdx?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/curry/debounce.mdx",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/da28386a191961411cccfe855221efc0104b15a9",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/curry/debounce.mdx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/curry/debounce.mdx?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/da28386a191961411cccfe855221efc0104b15a9",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/curry/debounce.mdx"
+    },
+    "children": []
+  },
+  {
+    "name": "memo.mdx",
+    "path": "docs/curry/memo.mdx",
+    "sha": "a34bcf47c9a164533dd61c31ab123c1d62acc6bb",
+    "size": 1279,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/curry/memo.mdx?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/curry/memo.mdx",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/a34bcf47c9a164533dd61c31ab123c1d62acc6bb",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/curry/memo.mdx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/curry/memo.mdx?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/a34bcf47c9a164533dd61c31ab123c1d62acc6bb",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/curry/memo.mdx"
+    },
+    "children": []
+  },
+  {
+    "name": "partial.mdx",
+    "path": "docs/curry/partial.mdx",
+    "sha": "8bac31b8abace572d2dfc731a1e6e3f3ce60b3ab",
+    "size": 348,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/curry/partial.mdx?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/curry/partial.mdx",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/8bac31b8abace572d2dfc731a1e6e3f3ce60b3ab",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/curry/partial.mdx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/curry/partial.mdx?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/8bac31b8abace572d2dfc731a1e6e3f3ce60b3ab",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/curry/partial.mdx"
+    },
+    "children": []
+  },
+  {
+    "name": "partob.mdx",
+    "path": "docs/curry/partob.mdx",
+    "sha": "5c7568382b851df38f4b9c321f4e2ddf4820c22d",
+    "size": 520,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/curry/partob.mdx?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/curry/partob.mdx",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/5c7568382b851df38f4b9c321f4e2ddf4820c22d",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/curry/partob.mdx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/curry/partob.mdx?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/5c7568382b851df38f4b9c321f4e2ddf4820c22d",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/curry/partob.mdx"
+    },
+    "children": []
+  },
+  {
+    "name": "proxied.mdx",
+    "path": "docs/curry/proxied.mdx",
+    "sha": "7e8d45a38482ec5d6a06a10efe315dba3142e3eb",
+    "size": 699,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/curry/proxied.mdx?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/curry/proxied.mdx",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/7e8d45a38482ec5d6a06a10efe315dba3142e3eb",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/curry/proxied.mdx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/curry/proxied.mdx?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/7e8d45a38482ec5d6a06a10efe315dba3142e3eb",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/curry/proxied.mdx"
+    },
+    "children": []
+  },
+  {
+    "name": "throttle.mdx",
+    "path": "docs/curry/throttle.mdx",
+    "sha": "2e098e6ae9522e64d02668030fff3afaec3294e3",
+    "size": 1314,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/curry/throttle.mdx?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/curry/throttle.mdx",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/2e098e6ae9522e64d02668030fff3afaec3294e3",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/curry/throttle.mdx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/curry/throttle.mdx?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/2e098e6ae9522e64d02668030fff3afaec3294e3",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/curry/throttle.mdx"
+    },
+    "children": []
+  },
+  {
+    "name": "favicon.ico",
+    "path": "docs/favicon.ico",
+    "sha": "9e817e6476102a6b06fd0abb1356faba53cd5b82",
+    "size": 15406,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/favicon.ico?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/favicon.ico",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/9e817e6476102a6b06fd0abb1356faba53cd5b82",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/favicon.ico",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/favicon.ico?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/9e817e6476102a6b06fd0abb1356faba53cd5b82",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/favicon.ico"
+    },
+    "children": []
+  },
+  {
+    "name": "getting-started.mdx",
+    "path": "docs/getting-started.mdx",
+    "sha": "ea4acc5bb1d89478a2aa6303d7e3dbe1d1779383",
+    "size": 3396,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/getting-started.mdx?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/getting-started.mdx",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/ea4acc5bb1d89478a2aa6303d7e3dbe1d1779383",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/getting-started.mdx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/getting-started.mdx?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/ea4acc5bb1d89478a2aa6303d7e3dbe1d1779383",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/getting-started.mdx"
+    },
+    "children": []
+  },
+  {
+    "name": "installation.mdx",
+    "path": "docs/installation.mdx",
+    "sha": "91c092b9fdc80278ceccc677703f64454f89be3f",
+    "size": 194,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/installation.mdx?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/installation.mdx",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/91c092b9fdc80278ceccc677703f64454f89be3f",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/installation.mdx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/installation.mdx?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/91c092b9fdc80278ceccc677703f64454f89be3f",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/installation.mdx"
+    },
+    "children": []
+  },
+  {
+    "name": "logo-dark.png",
+    "path": "docs/logo-dark.png",
+    "sha": "30803e53503ca94ba5aab076bafacd2bd25affb3",
+    "size": 23458,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/logo-dark.png?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/logo-dark.png",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/30803e53503ca94ba5aab076bafacd2bd25affb3",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/logo-dark.png",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/logo-dark.png?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/30803e53503ca94ba5aab076bafacd2bd25affb3",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/logo-dark.png"
+    },
+    "children": []
+  },
+  {
+    "name": "logo-light.png",
+    "path": "docs/logo-light.png",
+    "sha": "e724930780898fe102d365cf399311b272c76f73",
+    "size": 21146,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/logo-light.png?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/logo-light.png",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/e724930780898fe102d365cf399311b272c76f73",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/logo-light.png",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/logo-light.png?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/e724930780898fe102d365cf399311b272c76f73",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/logo-light.png"
+    },
+    "children": []
+  },
+  {
+    "name": "number",
+    "path": "docs/number",
+    "sha": "980d7f9c61ff89e89676eb47d0b33344e4b9aecf",
+    "size": 0,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/number?ref=master",
+    "html_url": "https://github.com/rayepps/radash/tree/master/docs/number",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/trees/980d7f9c61ff89e89676eb47d0b33344e4b9aecf",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/number?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/trees/980d7f9c61ff89e89676eb47d0b33344e4b9aecf",
+      "html": "https://github.com/rayepps/radash/tree/master/docs/number"
+    },
+    "children": []
+  },
+  {
+    "name": "in-range.mdx",
+    "path": "docs/number/in-range.mdx",
+    "sha": "d46b25b406bda9852cb6661608a7c763855b16d8",
+    "size": 710,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/number/in-range.mdx?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/number/in-range.mdx",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/d46b25b406bda9852cb6661608a7c763855b16d8",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/number/in-range.mdx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/number/in-range.mdx?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/d46b25b406bda9852cb6661608a7c763855b16d8",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/number/in-range.mdx"
+    },
+    "children": []
+  },
+  {
+    "name": "to-float.mdx",
+    "path": "docs/number/to-float.mdx",
+    "sha": "bdb4648355821ce2306c027e387bb15c2d0a33a7",
+    "size": 308,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/number/to-float.mdx?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/number/to-float.mdx",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/bdb4648355821ce2306c027e387bb15c2d0a33a7",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/number/to-float.mdx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/number/to-float.mdx?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/bdb4648355821ce2306c027e387bb15c2d0a33a7",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/number/to-float.mdx"
+    },
+    "children": []
+  },
+  {
+    "name": "to-int.mdx",
+    "path": "docs/number/to-int.mdx",
+    "sha": "b8084d430f4163fd14ec58464ed84030a73529b0",
+    "size": 284,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/number/to-int.mdx?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/number/to-int.mdx",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/b8084d430f4163fd14ec58464ed84030a73529b0",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/number/to-int.mdx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/number/to-int.mdx?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/b8084d430f4163fd14ec58464ed84030a73529b0",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/number/to-int.mdx"
+    },
+    "children": []
+  },
+  {
+    "name": "object",
+    "path": "docs/object",
+    "sha": "8e43d2168d32da1e814d887a3513a1bb0c2299a5",
+    "size": 0,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/object?ref=master",
+    "html_url": "https://github.com/rayepps/radash/tree/master/docs/object",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/trees/8e43d2168d32da1e814d887a3513a1bb0c2299a5",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/object?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/trees/8e43d2168d32da1e814d887a3513a1bb0c2299a5",
+      "html": "https://github.com/rayepps/radash/tree/master/docs/object"
+    },
+    "children": []
+  },
+  {
+    "name": "assign.mdx",
+    "path": "docs/object/assign.mdx",
+    "sha": "404f16747f450af81a84cbfe97ec788746ef0d85",
+    "size": 400,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/object/assign.mdx?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/object/assign.mdx",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/404f16747f450af81a84cbfe97ec788746ef0d85",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/object/assign.mdx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/object/assign.mdx?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/404f16747f450af81a84cbfe97ec788746ef0d85",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/object/assign.mdx"
+    },
+    "children": []
+  },
+  {
+    "name": "clone.mdx",
+    "path": "docs/object/clone.mdx",
+    "sha": "5d8a351a286e34d5f3fb23ed23c47c42bdb9aa55",
+    "size": 328,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/object/clone.mdx?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/object/clone.mdx",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/5d8a351a286e34d5f3fb23ed23c47c42bdb9aa55",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/object/clone.mdx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/object/clone.mdx?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/5d8a351a286e34d5f3fb23ed23c47c42bdb9aa55",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/object/clone.mdx"
+    },
+    "children": []
+  },
+  {
+    "name": "construct.mdx",
+    "path": "docs/object/construct.mdx",
+    "sha": "12e98f3efe17d148bc48412e6238d2239baf325c",
+    "size": 641,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/object/construct.mdx?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/object/construct.mdx",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/12e98f3efe17d148bc48412e6238d2239baf325c",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/object/construct.mdx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/object/construct.mdx?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/12e98f3efe17d148bc48412e6238d2239baf325c",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/object/construct.mdx"
+    },
+    "children": []
+  },
+  {
+    "name": "crush.mdx",
+    "path": "docs/object/crush.mdx",
+    "sha": "aebcdcac191a7fb0dba081af75e2fafdf1b57559",
+    "size": 595,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/object/crush.mdx?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/object/crush.mdx",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/aebcdcac191a7fb0dba081af75e2fafdf1b57559",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/object/crush.mdx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/object/crush.mdx?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/aebcdcac191a7fb0dba081af75e2fafdf1b57559",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/object/crush.mdx"
+    },
+    "children": []
+  },
+  {
+    "name": "get.mdx",
+    "path": "docs/object/get.mdx",
+    "sha": "ddc4df88d7a429a2a45ae89ae35d122f10710a76",
+    "size": 573,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/object/get.mdx?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/object/get.mdx",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/ddc4df88d7a429a2a45ae89ae35d122f10710a76",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/object/get.mdx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/object/get.mdx?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/ddc4df88d7a429a2a45ae89ae35d122f10710a76",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/object/get.mdx"
+    },
+    "children": []
+  },
+  {
+    "name": "invert.mdx",
+    "path": "docs/object/invert.mdx",
+    "sha": "de9f28ebbb5e095276f571cbc7962dbb262ed7a6",
+    "size": 359,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/object/invert.mdx?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/object/invert.mdx",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/de9f28ebbb5e095276f571cbc7962dbb262ed7a6",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/object/invert.mdx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/object/invert.mdx?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/de9f28ebbb5e095276f571cbc7962dbb262ed7a6",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/object/invert.mdx"
+    },
+    "children": []
+  },
+  {
+    "name": "keys.mdx",
+    "path": "docs/object/keys.mdx",
+    "sha": "863e8b881e84f258d3c8c7d3b664388f1c42e890",
+    "size": 1069,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/object/keys.mdx?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/object/keys.mdx",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/863e8b881e84f258d3c8c7d3b664388f1c42e890",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/object/keys.mdx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/object/keys.mdx?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/863e8b881e84f258d3c8c7d3b664388f1c42e890",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/object/keys.mdx"
+    },
+    "children": []
+  },
+  {
+    "name": "listify.mdx",
+    "path": "docs/object/listify.mdx",
+    "sha": "08bdc5a328738efd5e74418e0f70795694a02275",
+    "size": 456,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/object/listify.mdx?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/object/listify.mdx",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/08bdc5a328738efd5e74418e0f70795694a02275",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/object/listify.mdx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/object/listify.mdx?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/08bdc5a328738efd5e74418e0f70795694a02275",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/object/listify.mdx"
+    },
+    "children": []
+  },
+  {
+    "name": "lowerize.mdx",
+    "path": "docs/object/lowerize.mdx",
+    "sha": "66cfd6e601175b207be14a809a0f264e001a1fdc",
+    "size": 438,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/object/lowerize.mdx?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/object/lowerize.mdx",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/66cfd6e601175b207be14a809a0f264e001a1fdc",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/object/lowerize.mdx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/object/lowerize.mdx?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/66cfd6e601175b207be14a809a0f264e001a1fdc",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/object/lowerize.mdx"
+    },
+    "children": []
+  },
+  {
+    "name": "map-entries.mdx",
+    "path": "docs/object/map-entries.mdx",
+    "sha": "e4007d2b9e8a406d248d3904d4e32e65f632bbc6",
+    "size": 622,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/object/map-entries.mdx?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/object/map-entries.mdx",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/e4007d2b9e8a406d248d3904d4e32e65f632bbc6",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/object/map-entries.mdx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/object/map-entries.mdx?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/e4007d2b9e8a406d248d3904d4e32e65f632bbc6",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/object/map-entries.mdx"
+    },
+    "children": []
+  },
+  {
+    "name": "map-keys.mdx",
+    "path": "docs/object/map-keys.mdx",
+    "sha": "b319a02bbe585f9ebf2538b129a3734f0fa6939d",
+    "size": 507,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/object/map-keys.mdx?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/object/map-keys.mdx",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/b319a02bbe585f9ebf2538b129a3734f0fa6939d",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/object/map-keys.mdx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/object/map-keys.mdx?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/b319a02bbe585f9ebf2538b129a3734f0fa6939d",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/object/map-keys.mdx"
+    },
+    "children": []
+  },
+  {
+    "name": "map-values.mdx",
+    "path": "docs/object/map-values.mdx",
+    "sha": "eaf45c8a7b5a029127d9fd36352321098fb89733",
+    "size": 539,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/object/map-values.mdx?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/object/map-values.mdx",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/eaf45c8a7b5a029127d9fd36352321098fb89733",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/object/map-values.mdx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/object/map-values.mdx?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/eaf45c8a7b5a029127d9fd36352321098fb89733",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/object/map-values.mdx"
+    },
+    "children": []
+  },
+  {
+    "name": "omit.mdx",
+    "path": "docs/object/omit.mdx",
+    "sha": "6594e3e6f50500c06de108c82bbb4ef12c092aee",
+    "size": 389,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/object/omit.mdx?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/object/omit.mdx",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/6594e3e6f50500c06de108c82bbb4ef12c092aee",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/object/omit.mdx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/object/omit.mdx?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/6594e3e6f50500c06de108c82bbb4ef12c092aee",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/object/omit.mdx"
+    },
+    "children": []
+  },
+  {
+    "name": "pick.mdx",
+    "path": "docs/object/pick.mdx",
+    "sha": "9f87a8a820c1d05c4a066e2cda5ce5e40ae7b171",
+    "size": 388,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/object/pick.mdx?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/object/pick.mdx",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/9f87a8a820c1d05c4a066e2cda5ce5e40ae7b171",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/object/pick.mdx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/object/pick.mdx?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/9f87a8a820c1d05c4a066e2cda5ce5e40ae7b171",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/object/pick.mdx"
+    },
+    "children": []
+  },
+  {
+    "name": "set.mdx",
+    "path": "docs/object/set.mdx",
+    "sha": "722deeb56c74cd831c31f7eaedb00cc65b01c7cf",
+    "size": 374,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/object/set.mdx?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/object/set.mdx",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/722deeb56c74cd831c31f7eaedb00cc65b01c7cf",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/object/set.mdx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/object/set.mdx?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/722deeb56c74cd831c31f7eaedb00cc65b01c7cf",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/object/set.mdx"
+    },
+    "children": []
+  },
+  {
+    "name": "shake.mdx",
+    "path": "docs/object/shake.mdx",
+    "sha": "e450e2cc36f4ba2e62fd6676c7d03515e13769e4",
+    "size": 486,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/object/shake.mdx?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/object/shake.mdx",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/e450e2cc36f4ba2e62fd6676c7d03515e13769e4",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/object/shake.mdx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/object/shake.mdx?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/e450e2cc36f4ba2e62fd6676c7d03515e13769e4",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/object/shake.mdx"
+    },
+    "children": []
+  },
+  {
+    "name": "upperize.mdx",
+    "path": "docs/object/upperize.mdx",
+    "sha": "a44d8c5dee6e7d4bc106e9aceca15f7f22754191",
+    "size": 362,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/object/upperize.mdx?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/object/upperize.mdx",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/a44d8c5dee6e7d4bc106e9aceca15f7f22754191",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/object/upperize.mdx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/object/upperize.mdx?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/a44d8c5dee6e7d4bc106e9aceca15f7f22754191",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/object/upperize.mdx"
+    },
+    "children": []
+  },
+  {
+    "name": "random",
+    "path": "docs/random",
+    "sha": "2326fa10f1138c8f1421d52e58e1d3118a46a14d",
+    "size": 0,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/random?ref=master",
+    "html_url": "https://github.com/rayepps/radash/tree/master/docs/random",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/trees/2326fa10f1138c8f1421d52e58e1d3118a46a14d",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/random?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/trees/2326fa10f1138c8f1421d52e58e1d3118a46a14d",
+      "html": "https://github.com/rayepps/radash/tree/master/docs/random"
+    },
+    "children": []
+  },
+  {
+    "name": "draw.mdx",
+    "path": "docs/random/draw.mdx",
+    "sha": "b6e275c5d6738bceff26851d48b793dfc66cd2bd",
+    "size": 295,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/random/draw.mdx?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/random/draw.mdx",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/b6e275c5d6738bceff26851d48b793dfc66cd2bd",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/random/draw.mdx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/random/draw.mdx?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/b6e275c5d6738bceff26851d48b793dfc66cd2bd",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/random/draw.mdx"
+    },
+    "children": []
+  },
+  {
+    "name": "random.mdx",
+    "path": "docs/random/random.mdx",
+    "sha": "ef8dbf7ac5ebc6d0de0058912eeaf15dd67a405e",
+    "size": 288,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/random/random.mdx?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/random/random.mdx",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/ef8dbf7ac5ebc6d0de0058912eeaf15dd67a405e",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/random/random.mdx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/random/random.mdx?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/ef8dbf7ac5ebc6d0de0058912eeaf15dd67a405e",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/random/random.mdx"
+    },
+    "children": []
+  },
+  {
+    "name": "shuffle.mdx",
+    "path": "docs/random/shuffle.mdx",
+    "sha": "e1f2a899dc476f581ef5ee18083c7f0d78beba9d",
+    "size": 658,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/random/shuffle.mdx?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/random/shuffle.mdx",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/e1f2a899dc476f581ef5ee18083c7f0d78beba9d",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/random/shuffle.mdx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/random/shuffle.mdx?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/e1f2a899dc476f581ef5ee18083c7f0d78beba9d",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/random/shuffle.mdx"
+    },
+    "children": []
+  },
+  {
+    "name": "uid.mdx",
+    "path": "docs/random/uid.mdx",
+    "sha": "7fde52e5814a283d1a66b83ab0c5a5c5ffd3a477",
+    "size": 469,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/random/uid.mdx?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/random/uid.mdx",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/7fde52e5814a283d1a66b83ab0c5a5c5ffd3a477",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/random/uid.mdx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/random/uid.mdx?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/7fde52e5814a283d1a66b83ab0c5a5c5ffd3a477",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/random/uid.mdx"
+    },
+    "children": []
+  },
+  {
+    "name": "series",
+    "path": "docs/series",
+    "sha": "bcabd74a535014d8da1ccaebee8f301129634e49",
+    "size": 0,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/series?ref=master",
+    "html_url": "https://github.com/rayepps/radash/tree/master/docs/series",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/trees/bcabd74a535014d8da1ccaebee8f301129634e49",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/series?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/trees/bcabd74a535014d8da1ccaebee8f301129634e49",
+      "html": "https://github.com/rayepps/radash/tree/master/docs/series"
+    },
+    "children": []
+  },
+  {
+    "name": "series.mdx",
+    "path": "docs/series/series.mdx",
+    "sha": "cab4e063767c259333fa062ef5e9368139c330c0",
+    "size": 1604,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/series/series.mdx?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/series/series.mdx",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/cab4e063767c259333fa062ef5e9368139c330c0",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/series/series.mdx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/series/series.mdx?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/cab4e063767c259333fa062ef5e9368139c330c0",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/series/series.mdx"
+    },
+    "children": []
+  },
+  {
+    "name": "string",
+    "path": "docs/string",
+    "sha": "4e7f3c49d498f4ef02cad7205541eebde7b09146",
+    "size": 0,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/string?ref=master",
+    "html_url": "https://github.com/rayepps/radash/tree/master/docs/string",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/trees/4e7f3c49d498f4ef02cad7205541eebde7b09146",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/string?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/trees/4e7f3c49d498f4ef02cad7205541eebde7b09146",
+      "html": "https://github.com/rayepps/radash/tree/master/docs/string"
+    },
+    "children": []
+  },
+  {
+    "name": "camel.mdx",
+    "path": "docs/string/camel.mdx",
+    "sha": "c8129662ac51f236be6f23fc7b60a4720041f97e",
+    "size": 241,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/string/camel.mdx?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/string/camel.mdx",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/c8129662ac51f236be6f23fc7b60a4720041f97e",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/string/camel.mdx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/string/camel.mdx?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/c8129662ac51f236be6f23fc7b60a4720041f97e",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/string/camel.mdx"
+    },
+    "children": []
+  },
+  {
+    "name": "capitalize.mdx",
+    "path": "docs/string/capitalize.mdx",
+    "sha": "9a9afb8de519b48bfa67d62257b0a31b8848f81d",
+    "size": 316,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/string/capitalize.mdx?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/string/capitalize.mdx",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/9a9afb8de519b48bfa67d62257b0a31b8848f81d",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/string/capitalize.mdx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/string/capitalize.mdx?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/9a9afb8de519b48bfa67d62257b0a31b8848f81d",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/string/capitalize.mdx"
+    },
+    "children": []
+  },
+  {
+    "name": "dash.mdx",
+    "path": "docs/string/dash.mdx",
+    "sha": "76b58b0c5a5e863bfe69629459d5aab1f7f48bbf",
+    "size": 239,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/string/dash.mdx?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/string/dash.mdx",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/76b58b0c5a5e863bfe69629459d5aab1f7f48bbf",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/string/dash.mdx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/string/dash.mdx?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/76b58b0c5a5e863bfe69629459d5aab1f7f48bbf",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/string/dash.mdx"
+    },
+    "children": []
+  },
+  {
+    "name": "pascal.mdx",
+    "path": "docs/string/pascal.mdx",
+    "sha": "9246f3ece87e44a00704e41989f1adec927c76ac",
+    "size": 270,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/string/pascal.mdx?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/string/pascal.mdx",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/9246f3ece87e44a00704e41989f1adec927c76ac",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/string/pascal.mdx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/string/pascal.mdx?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/9246f3ece87e44a00704e41989f1adec927c76ac",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/string/pascal.mdx"
+    },
+    "children": []
+  },
+  {
+    "name": "snake.mdx",
+    "path": "docs/string/snake.mdx",
+    "sha": "5348edd34248f1de2a076806a2a9c57f95671b91",
+    "size": 703,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/string/snake.mdx?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/string/snake.mdx",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/5348edd34248f1de2a076806a2a9c57f95671b91",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/string/snake.mdx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/string/snake.mdx?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/5348edd34248f1de2a076806a2a9c57f95671b91",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/string/snake.mdx"
+    },
+    "children": []
+  },
+  {
+    "name": "template.mdx",
+    "path": "docs/string/template.mdx",
+    "sha": "c72c673bc9ab4d7945cf279cd03276d19d7119bc",
+    "size": 517,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/string/template.mdx?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/string/template.mdx",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/c72c673bc9ab4d7945cf279cd03276d19d7119bc",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/string/template.mdx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/string/template.mdx?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/c72c673bc9ab4d7945cf279cd03276d19d7119bc",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/string/template.mdx"
+    },
+    "children": []
+  },
+  {
+    "name": "title.mdx",
+    "path": "docs/string/title.mdx",
+    "sha": "1656d0e207117739dab4a32cd1f71ae2d91bbecb",
+    "size": 343,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/string/title.mdx?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/string/title.mdx",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/1656d0e207117739dab4a32cd1f71ae2d91bbecb",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/string/title.mdx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/string/title.mdx?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/1656d0e207117739dab4a32cd1f71ae2d91bbecb",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/string/title.mdx"
+    },
+    "children": []
+  },
+  {
+    "name": "trim.mdx",
+    "path": "docs/string/trim.mdx",
+    "sha": "57fde1d3f451e3e77e15c883d56dccf9a7dc4a4e",
+    "size": 518,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/string/trim.mdx?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/string/trim.mdx",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/57fde1d3f451e3e77e15c883d56dccf9a7dc4a4e",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/string/trim.mdx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/string/trim.mdx?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/57fde1d3f451e3e77e15c883d56dccf9a7dc4a4e",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/string/trim.mdx"
+    },
+    "children": []
+  },
+  {
+    "name": "typed",
+    "path": "docs/typed",
+    "sha": "8e216f148bf1479a3b23c941a0807806fd535bb2",
+    "size": 0,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/typed?ref=master",
+    "html_url": "https://github.com/rayepps/radash/tree/master/docs/typed",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/trees/8e216f148bf1479a3b23c941a0807806fd535bb2",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/typed?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/trees/8e216f148bf1479a3b23c941a0807806fd535bb2",
+      "html": "https://github.com/rayepps/radash/tree/master/docs/typed"
+    },
+    "children": []
+  },
+  {
+    "name": "is-array.mdx",
+    "path": "docs/typed/is-array.mdx",
+    "sha": "1320b7cb23033700ac286f2ac6a62f03fe98609a",
+    "size": 277,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/typed/is-array.mdx?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/typed/is-array.mdx",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/1320b7cb23033700ac286f2ac6a62f03fe98609a",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/typed/is-array.mdx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/typed/is-array.mdx?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/1320b7cb23033700ac286f2ac6a62f03fe98609a",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/typed/is-array.mdx"
+    },
+    "children": []
+  },
+  {
+    "name": "is-date.mdx",
+    "path": "docs/typed/is-date.mdx",
+    "sha": "db112ae42016588014afd9f3093f436035f2613c",
+    "size": 351,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/typed/is-date.mdx?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/typed/is-date.mdx",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/db112ae42016588014afd9f3093f436035f2613c",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/typed/is-date.mdx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/typed/is-date.mdx?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/db112ae42016588014afd9f3093f436035f2613c",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/typed/is-date.mdx"
+    },
+    "children": []
+  },
+  {
+    "name": "is-empty.mdx",
+    "path": "docs/typed/is-empty.mdx",
+    "sha": "03d7cc6aad819e2cdc8e09892a69a4ee126e0106",
+    "size": 321,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/typed/is-empty.mdx?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/typed/is-empty.mdx",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/03d7cc6aad819e2cdc8e09892a69a4ee126e0106",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/typed/is-empty.mdx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/typed/is-empty.mdx?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/03d7cc6aad819e2cdc8e09892a69a4ee126e0106",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/typed/is-empty.mdx"
+    },
+    "children": []
+  },
+  {
+    "name": "is-equal.mdx",
+    "path": "docs/typed/is-equal.mdx",
+    "sha": "880a798c22f7cebfc2ec918a9b5a4899880cf625",
+    "size": 334,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/typed/is-equal.mdx?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/typed/is-equal.mdx",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/880a798c22f7cebfc2ec918a9b5a4899880cf625",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/typed/is-equal.mdx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/typed/is-equal.mdx?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/880a798c22f7cebfc2ec918a9b5a4899880cf625",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/typed/is-equal.mdx"
+    },
+    "children": []
+  },
+  {
+    "name": "is-float.mdx",
+    "path": "docs/typed/is-float.mdx",
+    "sha": "69de1dc8355d6440c6c59296e3975ca76b8afdc9",
+    "size": 302,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/typed/is-float.mdx?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/typed/is-float.mdx",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/69de1dc8355d6440c6c59296e3975ca76b8afdc9",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/typed/is-float.mdx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/typed/is-float.mdx?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/69de1dc8355d6440c6c59296e3975ca76b8afdc9",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/typed/is-float.mdx"
+    },
+    "children": []
+  },
+  {
+    "name": "is-function.mdx",
+    "path": "docs/typed/is-function.mdx",
+    "sha": "6c7bd6eb3965dec23dcce5ffcbb6fa9889a46d03",
+    "size": 331,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/typed/is-function.mdx?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/typed/is-function.mdx",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/6c7bd6eb3965dec23dcce5ffcbb6fa9889a46d03",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/typed/is-function.mdx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/typed/is-function.mdx?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/6c7bd6eb3965dec23dcce5ffcbb6fa9889a46d03",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/typed/is-function.mdx"
+    },
+    "children": []
+  },
+  {
+    "name": "is-int.mdx",
+    "path": "docs/typed/is-int.mdx",
+    "sha": "e05e375ed30e5700fdc214518e2faa85fa8393f7",
+    "size": 284,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/typed/is-int.mdx?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/typed/is-int.mdx",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/e05e375ed30e5700fdc214518e2faa85fa8393f7",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/typed/is-int.mdx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/typed/is-int.mdx?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/e05e375ed30e5700fdc214518e2faa85fa8393f7",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/typed/is-int.mdx"
+    },
+    "children": []
+  },
+  {
+    "name": "is-number.mdx",
+    "path": "docs/typed/is-number.mdx",
+    "sha": "fc7d3ca0324c80bf4020adec6a9e200402521acb",
+    "size": 306,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/typed/is-number.mdx?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/typed/is-number.mdx",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/fc7d3ca0324c80bf4020adec6a9e200402521acb",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/typed/is-number.mdx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/typed/is-number.mdx?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/fc7d3ca0324c80bf4020adec6a9e200402521acb",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/typed/is-number.mdx"
+    },
+    "children": []
+  },
+  {
+    "name": "is-object.mdx",
+    "path": "docs/typed/is-object.mdx",
+    "sha": "0e7465016592d47548d1cb54e05ac6453681ca04",
+    "size": 349,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/typed/is-object.mdx?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/typed/is-object.mdx",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/0e7465016592d47548d1cb54e05ac6453681ca04",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/typed/is-object.mdx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/typed/is-object.mdx?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/0e7465016592d47548d1cb54e05ac6453681ca04",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/typed/is-object.mdx"
+    },
+    "children": []
+  },
+  {
+    "name": "is-primitive.mdx",
+    "path": "docs/typed/is-primitive.mdx",
+    "sha": "a19d2f39e66c851a7e7996e57d8d48914f41de59",
+    "size": 370,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/typed/is-primitive.mdx?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/typed/is-primitive.mdx",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/a19d2f39e66c851a7e7996e57d8d48914f41de59",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/typed/is-primitive.mdx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/typed/is-primitive.mdx?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/a19d2f39e66c851a7e7996e57d8d48914f41de59",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/typed/is-primitive.mdx"
+    },
+    "children": []
+  },
+  {
+    "name": "is-promise.mdx",
+    "path": "docs/typed/is-promise.mdx",
+    "sha": "7995d7c60ad71e2cdc114526bc8396dc5f87980e",
+    "size": 620,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/typed/is-promise.mdx?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/typed/is-promise.mdx",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/7995d7c60ad71e2cdc114526bc8396dc5f87980e",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/typed/is-promise.mdx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/typed/is-promise.mdx?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/7995d7c60ad71e2cdc114526bc8396dc5f87980e",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/typed/is-promise.mdx"
+    },
+    "children": []
+  },
+  {
+    "name": "is-string.mdx",
+    "path": "docs/typed/is-string.mdx",
+    "sha": "b37a5699d26160672690ef7f7c5204adb9a7b954",
+    "size": 281,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/typed/is-string.mdx?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/typed/is-string.mdx",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/b37a5699d26160672690ef7f7c5204adb9a7b954",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/typed/is-string.mdx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/typed/is-string.mdx?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/b37a5699d26160672690ef7f7c5204adb9a7b954",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/typed/is-string.mdx"
+    },
+    "children": []
+  },
+  {
+    "name": "is-symbol.mdx",
+    "path": "docs/typed/is-symbol.mdx",
+    "sha": "84880cb859a3ea45290e324b12a9ba3387f09a4c",
+    "size": 287,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/docs/typed/is-symbol.mdx?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/docs/typed/is-symbol.mdx",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/84880cb859a3ea45290e324b12a9ba3387f09a4c",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/docs/typed/is-symbol.mdx",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/docs/typed/is-symbol.mdx?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/84880cb859a3ea45290e324b12a9ba3387f09a4c",
+      "html": "https://github.com/rayepps/radash/blob/master/docs/typed/is-symbol.mdx"
+    },
+    "children": []
+  },
+  {
+    "name": "jest.config.js",
+    "path": "jest.config.js",
+    "sha": "cf7d44180fba9fd3f5ff03f5a04865b14c9e8408",
+    "size": 355,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/jest.config.js?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/jest.config.js",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/cf7d44180fba9fd3f5ff03f5a04865b14c9e8408",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/jest.config.js",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/jest.config.js?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/cf7d44180fba9fd3f5ff03f5a04865b14c9e8408",
+      "html": "https://github.com/rayepps/radash/blob/master/jest.config.js"
+    },
+    "children": []
+  },
+  {
+    "name": "package.json",
+    "path": "package.json",
+    "sha": "0f7a54c74611525e18d8c988a8106aba8bfbafe0",
+    "size": 1528,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/package.json?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/package.json",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/0f7a54c74611525e18d8c988a8106aba8bfbafe0",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/package.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/package.json?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/0f7a54c74611525e18d8c988a8106aba8bfbafe0",
+      "html": "https://github.com/rayepps/radash/blob/master/package.json"
+    },
+    "children": []
+  },
+  {
+    "name": "rollup.config.mjs",
+    "path": "rollup.config.mjs",
+    "sha": "c32740f645396bed928a4ec2f3f00a85507f9ca6",
+    "size": 2928,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/rollup.config.mjs?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/rollup.config.mjs",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/c32740f645396bed928a4ec2f3f00a85507f9ca6",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/rollup.config.mjs",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/rollup.config.mjs?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/c32740f645396bed928a4ec2f3f00a85507f9ca6",
+      "html": "https://github.com/rayepps/radash/blob/master/rollup.config.mjs"
+    },
+    "children": []
+  },
+  {
+    "name": "src",
+    "path": "src",
+    "sha": "f4524ff82304e952d25e032b483abf70fbc3eb72",
+    "size": 0,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/src?ref=master",
+    "html_url": "https://github.com/rayepps/radash/tree/master/src",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/trees/f4524ff82304e952d25e032b483abf70fbc3eb72",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/src?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/trees/f4524ff82304e952d25e032b483abf70fbc3eb72",
+      "html": "https://github.com/rayepps/radash/tree/master/src"
+    },
+    "children": []
+  },
+  {
+    "name": "array.ts",
+    "path": "src/array.ts",
+    "sha": "a0a080c6cff83f8170037d5983de0f5145950fd1",
+    "size": 15157,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/src/array.ts?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/src/array.ts",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/a0a080c6cff83f8170037d5983de0f5145950fd1",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/src/array.ts",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/src/array.ts?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/a0a080c6cff83f8170037d5983de0f5145950fd1",
+      "html": "https://github.com/rayepps/radash/blob/master/src/array.ts"
+    },
+    "children": []
+  },
+  {
+    "name": "async.ts",
+    "path": "src/async.ts",
+    "sha": "72864df0f9ff27203835cd0bebd11273ba6e8cf2",
+    "size": 9053,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/src/async.ts?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/src/async.ts",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/72864df0f9ff27203835cd0bebd11273ba6e8cf2",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/src/async.ts",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/src/async.ts?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/72864df0f9ff27203835cd0bebd11273ba6e8cf2",
+      "html": "https://github.com/rayepps/radash/blob/master/src/async.ts"
+    },
+    "children": []
+  },
+  {
+    "name": "curry.ts",
+    "path": "src/curry.ts",
+    "sha": "2725ea5324d296893a9d307b9e1c26a5c9fcbd1b",
+    "size": 15317,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/src/curry.ts?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/src/curry.ts",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/2725ea5324d296893a9d307b9e1c26a5c9fcbd1b",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/src/curry.ts",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/src/curry.ts?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/2725ea5324d296893a9d307b9e1c26a5c9fcbd1b",
+      "html": "https://github.com/rayepps/radash/blob/master/src/curry.ts"
+    },
+    "children": []
+  },
+  {
+    "name": "index.ts",
+    "path": "src/index.ts",
+    "sha": "9dff2e2171eaf87980de889a640877b854f68642",
+    "size": 1222,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/src/index.ts?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/src/index.ts",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/9dff2e2171eaf87980de889a640877b854f68642",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/src/index.ts",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/src/index.ts?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/9dff2e2171eaf87980de889a640877b854f68642",
+      "html": "https://github.com/rayepps/radash/blob/master/src/index.ts"
+    },
+    "children": []
+  },
+  {
+    "name": "number.ts",
+    "path": "src/number.ts",
+    "sha": "8d7478cfe13e9a69378626ed462658b08b27c3bb",
+    "size": 2042,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/src/number.ts?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/src/number.ts",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/8d7478cfe13e9a69378626ed462658b08b27c3bb",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/src/number.ts",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/src/number.ts?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/8d7478cfe13e9a69378626ed462658b08b27c3bb",
+      "html": "https://github.com/rayepps/radash/blob/master/src/number.ts"
+    },
+    "children": []
+  },
+  {
+    "name": "object.ts",
+    "path": "src/object.ts",
+    "sha": "5561da2af9358f22c2e87583c62519d3db4a46c4",
+    "size": 9509,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/src/object.ts?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/src/object.ts",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/5561da2af9358f22c2e87583c62519d3db4a46c4",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/src/object.ts",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/src/object.ts?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/5561da2af9358f22c2e87583c62519d3db4a46c4",
+      "html": "https://github.com/rayepps/radash/blob/master/src/object.ts"
+    },
+    "children": []
+  },
+  {
+    "name": "random.ts",
+    "path": "src/random.ts",
+    "sha": "37fe6d679a5772a5d4ccc071b03617c9bafcd3ec",
+    "size": 960,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/src/random.ts?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/src/random.ts",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/37fe6d679a5772a5d4ccc071b03617c9bafcd3ec",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/src/random.ts",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/src/random.ts?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/37fe6d679a5772a5d4ccc071b03617c9bafcd3ec",
+      "html": "https://github.com/rayepps/radash/blob/master/src/random.ts"
+    },
+    "children": []
+  },
+  {
+    "name": "series.ts",
+    "path": "src/series.ts",
+    "sha": "ce746f15db78500f3a50e240a1f3ed4897d4ee47",
+    "size": 2520,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/src/series.ts?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/src/series.ts",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/ce746f15db78500f3a50e240a1f3ed4897d4ee47",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/src/series.ts",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/src/series.ts?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/ce746f15db78500f3a50e240a1f3ed4897d4ee47",
+      "html": "https://github.com/rayepps/radash/blob/master/src/series.ts"
+    },
+    "children": []
+  },
+  {
+    "name": "string.ts",
+    "path": "src/string.ts",
+    "sha": "40de090d08ddcd6254d04bbf5d0f8685d667bde8",
+    "size": 4177,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/src/string.ts?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/src/string.ts",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/40de090d08ddcd6254d04bbf5d0f8685d667bde8",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/src/string.ts",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/src/string.ts?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/40de090d08ddcd6254d04bbf5d0f8685d667bde8",
+      "html": "https://github.com/rayepps/radash/blob/master/src/string.ts"
+    },
+    "children": []
+  },
+  {
+    "name": "tests",
+    "path": "src/tests",
+    "sha": "2d2db01c526ec75cdaa49381a25808ffe0963a2d",
+    "size": 0,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/src/tests?ref=master",
+    "html_url": "https://github.com/rayepps/radash/tree/master/src/tests",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/trees/2d2db01c526ec75cdaa49381a25808ffe0963a2d",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/src/tests?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/trees/2d2db01c526ec75cdaa49381a25808ffe0963a2d",
+      "html": "https://github.com/rayepps/radash/tree/master/src/tests"
+    },
+    "children": []
+  },
+  {
+    "name": "array.test.ts",
+    "path": "src/tests/array.test.ts",
+    "sha": "15b1fc88718b5441f1d742aac518b625b1739f33",
+    "size": 25040,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/src/tests/array.test.ts?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/src/tests/array.test.ts",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/15b1fc88718b5441f1d742aac518b625b1739f33",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/src/tests/array.test.ts",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/src/tests/array.test.ts?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/15b1fc88718b5441f1d742aac518b625b1739f33",
+      "html": "https://github.com/rayepps/radash/blob/master/src/tests/array.test.ts"
+    },
+    "children": []
+  },
+  {
+    "name": "async.test.ts",
+    "path": "src/tests/async.test.ts",
+    "sha": "e67aa3d029ef3612e713390a55eab8850ffb25ce",
+    "size": 16975,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/src/tests/async.test.ts?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/src/tests/async.test.ts",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/e67aa3d029ef3612e713390a55eab8850ffb25ce",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/src/tests/async.test.ts",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/src/tests/async.test.ts?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/e67aa3d029ef3612e713390a55eab8850ffb25ce",
+      "html": "https://github.com/rayepps/radash/blob/master/src/tests/async.test.ts"
+    },
+    "children": []
+  },
+  {
+    "name": "curry.test.ts",
+    "path": "src/tests/curry.test.ts",
+    "sha": "a5bbdd75a479de6f5a74437c00650282f7f63b6f",
+    "size": 12566,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/src/tests/curry.test.ts?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/src/tests/curry.test.ts",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/a5bbdd75a479de6f5a74437c00650282f7f63b6f",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/src/tests/curry.test.ts",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/src/tests/curry.test.ts?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/a5bbdd75a479de6f5a74437c00650282f7f63b6f",
+      "html": "https://github.com/rayepps/radash/blob/master/src/tests/curry.test.ts"
+    },
+    "children": []
+  },
+  {
+    "name": "number.test.ts",
+    "path": "src/tests/number.test.ts",
+    "sha": "ee83dde4ddab56aab5732748407a44a2dc7ed9cd",
+    "size": 3303,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/src/tests/number.test.ts?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/src/tests/number.test.ts",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/ee83dde4ddab56aab5732748407a44a2dc7ed9cd",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/src/tests/number.test.ts",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/src/tests/number.test.ts?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/ee83dde4ddab56aab5732748407a44a2dc7ed9cd",
+      "html": "https://github.com/rayepps/radash/blob/master/src/tests/number.test.ts"
+    },
+    "children": []
+  },
+  {
+    "name": "object.test.ts",
+    "path": "src/tests/object.test.ts",
+    "sha": "42cc1e228732b98dc8585d9e84827553b7afd521",
+    "size": 15452,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/src/tests/object.test.ts?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/src/tests/object.test.ts",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/42cc1e228732b98dc8585d9e84827553b7afd521",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/src/tests/object.test.ts",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/src/tests/object.test.ts?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/42cc1e228732b98dc8585d9e84827553b7afd521",
+      "html": "https://github.com/rayepps/radash/blob/master/src/tests/object.test.ts"
+    },
+    "children": []
+  },
+  {
+    "name": "random.test.ts",
+    "path": "src/tests/random.test.ts",
+    "sha": "e38ca5b03c8236be17a33afa30e63b9ba3b00b8e",
+    "size": 2459,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/src/tests/random.test.ts?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/src/tests/random.test.ts",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/e38ca5b03c8236be17a33afa30e63b9ba3b00b8e",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/src/tests/random.test.ts",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/src/tests/random.test.ts?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/e38ca5b03c8236be17a33afa30e63b9ba3b00b8e",
+      "html": "https://github.com/rayepps/radash/blob/master/src/tests/random.test.ts"
+    },
+    "children": []
+  },
+  {
+    "name": "series.test.ts",
+    "path": "src/tests/series.test.ts",
+    "sha": "66abd08a9e0a30f9cdcbdf9735c195b212dda666",
+    "size": 2896,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/src/tests/series.test.ts?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/src/tests/series.test.ts",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/66abd08a9e0a30f9cdcbdf9735c195b212dda666",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/src/tests/series.test.ts",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/src/tests/series.test.ts?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/66abd08a9e0a30f9cdcbdf9735c195b212dda666",
+      "html": "https://github.com/rayepps/radash/blob/master/src/tests/series.test.ts"
+    },
+    "children": []
+  },
+  {
+    "name": "string.test.ts",
+    "path": "src/tests/string.test.ts",
+    "sha": "c9bdc9e273c17925231fceb77d8d36c88bcba211",
+    "size": 6404,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/src/tests/string.test.ts?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/src/tests/string.test.ts",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/c9bdc9e273c17925231fceb77d8d36c88bcba211",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/src/tests/string.test.ts",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/src/tests/string.test.ts?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/c9bdc9e273c17925231fceb77d8d36c88bcba211",
+      "html": "https://github.com/rayepps/radash/blob/master/src/tests/string.test.ts"
+    },
+    "children": []
+  },
+  {
+    "name": "typed.test.ts",
+    "path": "src/tests/typed.test.ts",
+    "sha": "2263cc1f908711907bc073fbe903e906cb848bd4",
+    "size": 16660,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/src/tests/typed.test.ts?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/src/tests/typed.test.ts",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/2263cc1f908711907bc073fbe903e906cb848bd4",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/src/tests/typed.test.ts",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/src/tests/typed.test.ts?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/2263cc1f908711907bc073fbe903e906cb848bd4",
+      "html": "https://github.com/rayepps/radash/blob/master/src/tests/typed.test.ts"
+    },
+    "children": []
+  },
+  {
+    "name": "typed.ts",
+    "path": "src/typed.ts",
+    "sha": "e6600171d18c1792d303607d351c1447ce76a42a",
+    "size": 3045,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/src/typed.ts?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/src/typed.ts",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/e6600171d18c1792d303607d351c1447ce76a42a",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/src/typed.ts",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/src/typed.ts?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/e6600171d18c1792d303607d351c1447ce76a42a",
+      "html": "https://github.com/rayepps/radash/blob/master/src/typed.ts"
+    },
+    "children": []
+  },
+  {
+    "name": "tsconfig.json",
+    "path": "tsconfig.json",
+    "sha": "147a4de5375915ce992f30af37be31f664dd11e6",
+    "size": 256,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/tsconfig.json?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/tsconfig.json",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/147a4de5375915ce992f30af37be31f664dd11e6",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/tsconfig.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/tsconfig.json?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/147a4de5375915ce992f30af37be31f664dd11e6",
+      "html": "https://github.com/rayepps/radash/blob/master/tsconfig.json"
+    },
+    "children": []
+  },
+  {
+    "name": "yarn.lock",
+    "path": "yarn.lock",
+    "sha": "e3a9ad81ef2a6d896535a354ebcae59fddad7ea7",
+    "size": 109366,
+    "url": "https://api.github.com/repos/rayepps/radash/contents/yarn.lock?ref=master",
+    "html_url": "https://github.com/rayepps/radash/blob/master/yarn.lock",
+    "git_url": "https://api.github.com/repos/rayepps/radash/git/blobs/e3a9ad81ef2a6d896535a354ebcae59fddad7ea7",
+    "download_url": "https://raw.githubusercontent.com/rayepps/radash/master/yarn.lock",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/rayepps/radash/contents/yarn.lock?ref=master",
+      "git": "https://api.github.com/repos/rayepps/radash/git/blobs/e3a9ad81ef2a6d896535a354ebcae59fddad7ea7",
+      "html": "https://github.com/rayepps/radash/blob/master/yarn.lock"
+    },
+    "children": []
+  }
+]

@@ -1,0 +1,9 @@
+#文件
+.gitignore
+.DS_Store
+package.json
+pnpm-lock.yaml
+
+#文件夹
+/dist
+
