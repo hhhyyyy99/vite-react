@@ -1,0 +1,9 @@
+.home-container{
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px 0;
+}
+.verify-box{
+  display: flex;
+  gap: 20px;
+}

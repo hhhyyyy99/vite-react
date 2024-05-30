@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite",
+    "dev": "vite --host",
     "build": "tsc && vite build",
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
     "prettier": "prettier -c --write \"**/*\"",
@@ -14,7 +14,9 @@
     "@doaction/rrweb-sdk": "^0.0.2",
     "@doaction/types": "^0.0.1",
     "antd": "^5.16.2",
+    "axios": "^1.7.2",
     "crypto-js": "^4.2.0",
+    "qiankun": "^2.10.16",
     "radash": "^12.1.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",

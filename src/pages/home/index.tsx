@@ -22,6 +22,7 @@ function Home() {
         <div>
           <Button onClick={() => navigate('/AI')}>AI</Button>
           <Button onClick={() => navigate('/github')}>github</Button>
+          <Button onClick={() => navigate('/qiankun')}>qiankun</Button>
         </div>
       </div>
     </div>
