@@ -1,6 +1,8 @@
 import { useLayoutEffect, useState } from "react";
-import LottieAnimation from "./LottieAnimation.tsx";
+import LottieWeb from "./LottieWeb.tsx";
+import LottieReact from "./LottieReact.tsx";
 import { Header } from "../../components/Header.tsx";
+import {lottieImg} from "../../utils/lottie/index";
 async function getAnimationData(url: string) {
     const module = await import(url);
     return module.default
@@ -11,7 +13,7 @@ export default function Lottie() {
         businessID: "alien_lottie_Message",
         lottieName: "lottie_default_38",
     };
-   const animationDataUrl = `../../assets/lottie/minions/lottie/${customElemData.lottieName}.json`
+   const animationDataUrl = `../../assets/lottie/minions/lottie/${customElemData.lottieName}.json`;
    // 动态获取文件导入
    const [animationData, setAnimationData] = useState<any>(null);
    useLayoutEffect(() => {
@@ -27,7 +29,8 @@ export default function Lottie() {
         <div className="home-container">
             <Header />
             <div className="home-content">
-                <LottieAnimation animationData={animationData} />
+                <LottieWeb animationData={animationData} />
+                <LottieReact animationData={animationData} />
             </div>
         </div>
     </>)
