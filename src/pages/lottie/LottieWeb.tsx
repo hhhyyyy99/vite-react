@@ -1,6 +1,5 @@
-import React, { useLayoutEffect,useRef } from "react";
+import { useLayoutEffect,useRef } from "react";
 import lottie from "lottie-web";
-
 const LottieAnimation = ({ animationData }:{animationData:any}) => {
   const container = useRef<HTMLDivElement>(null);
 useLayoutEffect(() => {
@@ -19,7 +18,7 @@ useLayoutEffect(() => {
   }, [animationData]);
 
   return (
-    <span ref={container}></span>
+    <span ref={container} style={{width:100,display:"inline-block"}}></span>
   );
 };
 
