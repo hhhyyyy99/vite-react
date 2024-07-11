@@ -3,7 +3,9 @@ import Login from './pages/login/index';
 import Home from './pages/home/index';
 import AI from './pages/AI/index';
 import GitHub from './pages/github/index';
-import Lottie from './pages/lottie/index'
+import Lottie from './pages/lottie/index';
+import BraftEditor from './pages/braftEditor/index';
+import Test from './pages/testPage';
 function App() {
   return (
     <BrowserRouter>
@@ -13,6 +15,8 @@ function App() {
        <Route path="/ai" element={<AI />} />
        <Route path="/github" element={<GitHub />} />
        <Route path="/lottie" element={<Lottie />} />
+       <Route path="/BraftEditor" element={<BraftEditor />} />
+       <Route path="/testPage" element={<Test />} />
        {/* <Route path="*" element={<NotFound />} /> */}
       </Routes>
     </BrowserRouter>

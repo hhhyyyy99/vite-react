@@ -12,6 +12,9 @@
   },
   "dependencies": {
     "antd": "5.16.2",
+    "braft-editor": "2.3.9",
+    "braft-extensions": "0.1.1",
+    "braft-utils": "3.0.13",
     "crypto-js": "4.2.0",
     "lottie-react": "2.4.0",
     "lottie-web": "5.12.2",
