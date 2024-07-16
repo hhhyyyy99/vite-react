@@ -1,0 +1,16 @@
+.editor-wrapper {
+  width: 500px;
+  margin: 0 auto;
+}
+.editor-wrapper-text {
+  height: 300px;
+  border: 1px solid #ccc;
+}
+.editor-wrapper-text .bf-controlbar{
+  display: none;
+}
+.editor-wrapper-text .bf-content{
+}
+.editor-wrapper-action{
+  margin-top: 20px;
+}
