@@ -44,12 +44,9 @@ export const getMessageElemArray = (rawData: any) => {
       const { type, text, entityRanges } = item;
       switch (type) {
         case "unstyled": {
-          const trimText = text;
-          if (trimText?.length) {
             messageElementArray.push(
-              getMessageElemItem("text", { text: text })
+              getMessageElemItem("text", { text: text.trim() })
             );
-          }
           break;
         }
         case "atomic": {

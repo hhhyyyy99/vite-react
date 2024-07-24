@@ -81,12 +81,9 @@ export default function BraftEditor() {
 
   const handleChange = (newEditorState: EditorState) => {
     setEditorState(newEditorState);
-    updateScroll();
   };
   const getContent = () => {
     const content = editorState.toRAW();
-    console.log(content);
-
     const messageElemArray = getMessageElemArray(content);
     const renderArrary = sendMsg(messageElemArray);
     console.log(renderArrary);
@@ -116,10 +113,8 @@ export default function BraftEditor() {
   const updateScroll = () => {
     // @ts-ignore
     const editorElement = editorInstance.current?.containerNode;
-    const el = document.querySelector(".bf-container .public-DraftEditor-content>div")
-
-    console.log({el});
-    el!.scrollTop = 300
+    const el = editorElement.querySelector(".bf-container")
+    el!.scrollTop = el?.scrollHeight
   };
   useEffect(() => {
     if (editorInstance.current) {
