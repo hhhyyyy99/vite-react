@@ -3,8 +3,6 @@ import LottieWeb from './LottieWeb.tsx';
 import LottieReact from './LottieReact.tsx';
 import { Header } from '../../components/Header.tsx';
 import useLottie from '../../hooks/useLottie.ts';
-import jsonFile from "../../assets/lottieResources/minions/lottie/lottie_default_37.json"
-import { clone } from 'radash';
 async function getAnimationData(url: string) {
   const module = await import(url);
   return module.default;
@@ -27,7 +25,6 @@ export default function Lottie() {
     };
   }, []);
 
-  const d  = clone(jsonFile);
   const options = {
     loop:true,
     autoplay: true,

@@ -1,6 +1,7 @@
-import React, { useCallback, useMemo, useState } from 'react';
+import { useMemo, useState } from 'react';
 import { Header } from '../../components/Header';
 import { extractLinks,Verify} from '@eamon98/autolinker';
+import './index.css';
 function openLink(url: string) {
   console.log(url);
 }
@@ -8,7 +9,8 @@ function handleUrl(text: string) {
  const result = extractLinks(text)
   return result.map((item, index) => {
    if(Verify.isUrl(item)){
-    return <a key={index} href={item} onClick={() => openLink(item)}>{item}</a>;
+       const url = item.startsWith("http") ? item : `http://${item}`;
+    return <a key={index} href={url} onClick={() => openLink(item)} target="_blank">{item}</a>;
    }
    return <p key={index}>{item}</p>;
   });
@@ -22,8 +24,8 @@ export default function Test() {
     <div className="home-container">
       <Header />
       <div className="home-content">
-        <input
-          type="text"
+        <textarea
+          className="home-textarea"
           placeholder="请输入内容"
           value={text}
           onChange={(e) => setText(e.target.value)}

@@ -19,7 +19,7 @@ function scrollToBottom(element: HTMLElement): void {
 }
 export default function AI(){
   const [question, setQuestion] = useState("");
-  const [apiKey, setApiKey] = useState("app-poyyx3QvcnjzIYSiZu2iKdcn")
+  const [apiKey, setApiKey] = useState("")
   const [responseMode, setResponseMode] = useState(ResponseMode.Streaming)
   const [aiList,setAiList] = useState([])
   const chatContainerRef = useRef<HTMLDivElement>(null);

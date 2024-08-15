@@ -7,3 +7,7 @@ header{
   display: flex;
   justify-content: space-between;
 }
+.home-textarea{
+  width: 300px;
+  height: 200px;
+}

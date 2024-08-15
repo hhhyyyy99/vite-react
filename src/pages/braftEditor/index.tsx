@@ -4,14 +4,13 @@ import BraftEditorInstance, { EditorState } from 'braft-editor';
 // 引入编辑器样式
 import 'braft-editor/dist/index.css';
 import { getMessageElemArray } from './tools';
-import rawJSON from './rawJson.json';
 import './index.css';
 import { ContentUtils } from 'braft-utils';
 
 // 引入表情包扩展模块样式文件
 import 'braft-extensions/dist/emoticon.css';
 // 引入表情包扩展模块和默认表情包列表
-import Emoticon, { defaultEmoticons } from 'braft-extensions/dist/emoticon';
+import Emoticon from 'braft-extensions/dist/emoticon';
 
 // 也可以使用自己的表情包资源，不受打包工具限制
 const emoticons = [
@@ -134,7 +133,7 @@ export default function BraftEditor() {
       </div>
       <div className='editor-wrapper-action'>
         <button onClick={getContent}>获取内容</button>
-        <button onClick={() => setContent(rawJSON)}>渲染内容</button>
+        <button onClick={() => setContent(editorState.toRAW())}>渲染内容</button>
       </div>
       <p>
         {renderArrary.map((item, index) => {
