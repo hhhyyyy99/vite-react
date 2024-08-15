@@ -1,0 +1,47 @@
+[
+  {
+    "message_msg_id": 1111,
+    "message_content": "Hello World!",
+    "message_date": "2022-01-01"
+  },
+  {
+    "message_msg_id": 2222,
+    "message_content": "Hello Vite React!",
+    "message_date": "2022-01-02"
+  },
+  {
+    "message_msg_id": 3333,
+    "message_content": "Hello Vue!",
+    "message_date": "2022-01-03"
+  },
+  {
+    "message_msg_id": 4444,
+    "message_content": "Hello Angular!",
+    "message_date": "2022-01-04"
+  },
+  {
+    "message_msg_id": 5555,
+    "message_content": "Hello Svelte!",
+    "message_date": "2022-01-05"
+  },
+  {
+    "time": 123123213123,
+    "is": "not",
+    "valid": "JSON"
+  },
+  {
+    "time":123123213123,
+    "is":"not",
+    "valid":"JSON"
+  },
+  {
+    "time": 32323,
+    "is": "not",
+    "valid": "JSON"
+  },
+  {
+    "time":2232323,
+    "is":"not",
+    "valid":"JSON"
+  }
+]
