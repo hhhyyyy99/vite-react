@@ -11,7 +11,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@eamon98/autolinker": "0.0.3",
+    "@hero/autolinker": "0.0.1",
     "@tanstack/react-query": "5.51.21",
     "antd": "5.16.2",
     "braft-editor": "2.3.9",

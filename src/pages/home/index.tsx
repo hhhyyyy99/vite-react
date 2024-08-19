@@ -24,7 +24,6 @@ function Home() {
           <Button onClick={() => navigate('/github')}>github</Button>
           <Button onClick={() => navigate('/lottie')}>lottie</Button>
           <Button onClick={() => navigate('/BraftEditor')}>BraftEditor</Button>
-          <Button onClick={() => navigate('/Wallet')}>Wallet</Button>
           <Button onClick={() => navigate('/testPage')}>Test</Button>
         </div>
       </div>

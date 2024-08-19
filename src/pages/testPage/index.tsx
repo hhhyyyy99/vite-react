@@ -1,6 +1,6 @@
 import { useMemo, useState } from 'react';
 import { Header } from '../../components/Header';
-import { extractLinks,Verify} from '@eamon98/autolinker';
+import { extractLinks,Verify} from '@hero/autolinker';
 import './index.css';
 function openLink(url: string) {
   console.log(url);

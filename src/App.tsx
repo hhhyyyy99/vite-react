@@ -6,7 +6,6 @@ import GitHub from './pages/github/index';
 import Lottie from './pages/lottie/index';
 import BraftEditor from './pages/braftEditor/index';
 import Test from './pages/testPage';
-import Wallet from './pages/Wallet';
 import { QueryClient, QueryClientProvider } from '@tanstack/react-query';
 import { WagmiProvider } from 'wagmi';
 
@@ -25,7 +24,6 @@ function App() {
             <Route path="/github" element={<GitHub />} />
             <Route path="/lottie" element={<Lottie />} />
             <Route path="/BraftEditor" element={<BraftEditor />} />
-            <Route path="/Wallet" element={<Wallet />} />
             <Route path="/testPage" element={<Test />} />
             {/* <Route path="*" element={<NotFound />} /> */}
           </Routes>
