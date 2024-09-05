@@ -1,13 +1,16 @@
 import usePool from '@/hooks/usePool';
-import { Button } from 'antd';
 
 const Time = () => {
-  const { num, textNum } = usePool();
+  const { computeEarning, currentEarning, func } = usePool();
   return (
     <div className="flex justify-center">
       <div className='flex flex-col gap-3'>
-        <p>num: {num.toFixed(6)}</p>
-        <p>num: {textNum.toFixed(6)}</p>
+        <p>num: {computeEarning.toFixed(6)}</p>
+        <p>num: {currentEarning.toFixed(6)}</p>
+        <p>{func("millisecond")}</p>
+        <p>{func("second")}</p>
+        <p>{func("minute")}</p>
+        <p>{func("hour")}</p>
       </div>
     </div>
   );
