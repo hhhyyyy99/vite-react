@@ -1,4 +1,4 @@
-import { Header } from '../../components/Header';
+import { Header } from '@/components/Header';
 import 'mac-scrollbar/dist/mac-scrollbar.css';
 import { MacScrollbar } from 'mac-scrollbar';
 import './index.css';

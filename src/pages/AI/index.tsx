@@ -1,5 +1,5 @@
 import {useState, useEffect, useRef} from "react";
-import {Header} from "../../components/Header.tsx";
+import {Header} from "@/components/Header.tsx";
 import "./index.css"
 import {Input,Button,Radio} from "antd";
 enum ResponseMode{

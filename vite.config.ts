@@ -10,6 +10,11 @@ export default defineConfig({
   server: {
     port: 5174,
   },
+  resolve: {
+    alias: {
+      "@": "/src",
+    },
+  },
   plugins: [
     react(),
     visualizer({
