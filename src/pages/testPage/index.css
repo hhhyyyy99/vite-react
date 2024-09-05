@@ -11,3 +11,10 @@ header{
   width: 300px;
   height: 200px;
 }
+.scroll-container{
+  width: 400px;
+  height: 400px;
+  margin: 0 auto;
+  overflow-y: auto;
+  border: 1px solid #ccc;
+}

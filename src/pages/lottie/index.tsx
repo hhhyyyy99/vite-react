@@ -23,7 +23,7 @@ export default function Lottie() {
     return () => {
       setAnimationData(null);
     };
-  }, []);
+  });
 
   const options = {
     loop:true,

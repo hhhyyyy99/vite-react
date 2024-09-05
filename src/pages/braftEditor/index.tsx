@@ -1,4 +1,4 @@
-import React, { useEffect, useRef, useState } from 'react';
+import { useEffect, useRef, useState } from 'react';
 // 引入编辑器组件
 import BraftEditorInstance, { EditorState } from 'braft-editor';
 // 引入编辑器样式
@@ -10,6 +10,7 @@ import { ContentUtils } from 'braft-utils';
 // 引入表情包扩展模块样式文件
 import 'braft-extensions/dist/emoticon.css';
 // 引入表情包扩展模块和默认表情包列表
+//@ ts-ignore
 import Emoticon from 'braft-extensions/dist/emoticon';
 
 // 也可以使用自己的表情包资源，不受打包工具限制
@@ -51,7 +52,7 @@ const blockExportFn = (contentState: any, block: any) => {
     }
 
     if (entity.getType() === 'block-image') {
-      const { nase64URL, ...others } = blockData;
+      const { _, ...others } = blockData;
       return {
         start: `<div class="block-image">${others}`,
         end: '</div>',
@@ -67,7 +68,7 @@ const blockExportFn = (contentState: any, block: any) => {
   }
 };
 
-function sendMsg(v: any, option?) {
+function sendMsg(v: any) {
   const text = v.map((item: any) => item.text_elem_content).join('');
   return [{ text }];
 }
@@ -109,17 +110,12 @@ export default function BraftEditor() {
     const pastedText = getPasteText(text);
     setEditorState(ContentUtils.insertText(editorState, pastedText));
   };
-  const updateScroll = () => {
-    // @ts-ignore
-    const editorElement = editorInstance.current?.containerNode;
-    const el = editorElement.querySelector(".bf-container")
-    el!.scrollTop = el?.scrollHeight
-  };
-  useEffect(() => {
-    if (editorInstance.current) {
-      // @ts-ignore
-    }
-  }, [editorInstance.current]);
+  // const updateScroll = () => {
+  //   // @ts-ignore
+  //   const editorElement = editorInstance.current?.containerNode;
+  //   const el = editorElement.querySelector(".bf-container")
+  //   el!.scrollTop = el?.scrollHeight
+  // };
   return (
     <div className="editor-wrapper">
       <div className="editor-wrapper-text">

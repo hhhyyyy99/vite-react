@@ -23,7 +23,7 @@ const useLottie = (animationData: any,option={}): UseLottieResult => {
 
       return () => animationRef.current?.destroy();
     }
-  }, [animationData]);
+  }, [animationData,containerRef,option]);
 
   const playAnimation = () => {
     if (animationRef.current) {

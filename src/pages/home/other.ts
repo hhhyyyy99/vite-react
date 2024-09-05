@@ -6,7 +6,6 @@ export function getURL(name:string) {
 }
 
 export async function getCurrentNumber(name:string) {
-    // eslint-disable-next-line @typescript-eslint/no-unused-vars
     const [url, _] = getURL(name);
     const response = await fetch(`${url}history.shtml`);
     console.log(response)
