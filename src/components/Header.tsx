@@ -1,3 +1,4 @@
+import { Button } from 'antd';
 import { useNavigate } from 'react-router-dom';
 
 export function Header() {
@@ -8,9 +9,9 @@ export function Header() {
     }
   return (
       <>
-          <header>
-              <h1 style={{ cursor: 'pointer' }} onClick={() => navigate('/')}>主页</h1>
-              <button onClick={logout}>退出</button>
+          <header className='mb-2'>
+              <h1 className='text-2xl font-semibold cursor-pointer' onClick={() => navigate('/')}>主页</h1>
+              <Button type='primary' onClick={logout}>退出</Button>
           </header>
       </>
   )
