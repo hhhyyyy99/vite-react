@@ -1,14 +1,14 @@
 import { Header } from '@/components/Header';
 import 'mac-scrollbar/dist/mac-scrollbar.css';
 import './index.css';
-import Time from './components/Time';
-import Autolinker from './components/Autolinker';
+import TestInput from './components/TestInput';
+
 export default function Test() {
   return (
     <div className="home-container">
       <Header />
       <div className="home-content">
-        <Autolinker/>
+        <TestInput/>
       </div>
     </div>
   );
