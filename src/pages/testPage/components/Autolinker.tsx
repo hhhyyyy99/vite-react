@@ -1,6 +1,5 @@
-import { useCallback, useMemo, useState } from 'react';
-import { Header } from '../../../components/Header';
-import { link } from '@hero/autolinker';
+import { useCallback, useState } from 'react';
+import { link } from '@eamon98/autolinker';
 import '../index.css';
 
 export default function Autolinker() {
