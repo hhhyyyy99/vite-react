@@ -1,6 +1,7 @@
 import { InputNumber, Space, Typography } from 'antd';
 import { useReducer } from 'react';
-import { debounce } from 'radash'
+import { debounce } from 'radash';
+import { usePoolAmountStore } from '@/pages/store/exchangeAmount';
 function transformNumber(value: number, flag: boolean) {
   return flag ? value * 2 : value / 2;
 }
@@ -48,18 +49,27 @@ function reducer(state: State, action: Action): State {
 }
 
 const TestInput = () => {
-  const [state, dispatch] = useReducer(reducer, { v1: null, v2: null });
-
-  const handleV1Change = (value: string | null) => {
-    dispatch({ type: 'SET_V1', payload: value });
-  };
-
-  const handleV2Change = (value: string | null) => {
-    debounce({ delay: 100 }, () => {
-      dispatch({ type: 'SET_V2', payload: value });
-    })
-  };
-
+ const {wdfcAmount,setWdfcAmount,lccAmount,setLccAmount} = usePoolAmountStore()
+const handleV1Change = async (value: string | null) => {
+  if (!value) {
+    setWdfcAmount('');
+    setLccAmount('');
+    return;
+  }
+  await new Promise(resolve=>setTimeout(resolve,500))
+  setWdfcAmount(value)
+  setLccAmount(value)
+}
+const handleV2Change = async (value: string | null)=>{
+  if (!value) {
+    setWdfcAmount('');
+    setLccAmount('');
+    return;
+  }
+  await new Promise(resolve=>setTimeout(resolve,500))
+  setWdfcAmount(value)
+  setLccAmount(value)
+}
   return (
     <div className="flex flex-col gap-2">
       <Space direction="vertical" size="large" className="w-full">
@@ -68,7 +78,7 @@ const TestInput = () => {
           <InputNumber
             className="w-full mt-2"
             stringMode
-            value={state.v1}
+            value={wdfcAmount}
             onChange={debounce({ delay: 500 }, handleV1Change)}
             placeholder="请输入数字"
             size="large"
@@ -80,7 +90,7 @@ const TestInput = () => {
           <InputNumber
             className="w-full mt-2"
             stringMode
-            value={state.v2}
+            value={lccAmount}
             onChange={handleV2Change}
             placeholder="请输入数字"
             size="large"

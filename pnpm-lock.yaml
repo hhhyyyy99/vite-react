@@ -77,6 +77,9 @@ importers:
       wagmi:
         specifier: 2.12.2
         version: 2.12.2(@tanstack/query-core@5.51.21)(@tanstack/react-query@5.51.21(react@18.2.0))(@types/react@18.2.56)(bufferutil@4.0.8)(encoding@0.1.13)(react-dom@18.2.0(react@18.2.0))(react-native@0.75.1(@babel/core@7.25.2)(@babel/preset-env@7.25.3(@babel/core@7.25.2))(@types/react@18.2.56)(bufferutil@4.0.8)(encoding@0.1.13)(react@18.2.0)(typescript@5.2.2)(utf-8-validate@5.0.10))(react@18.2.0)(rollup@4.21.0)(typescript@5.2.2)(utf-8-validate@5.0.10)(viem@2.19.7(bufferutil@4.0.8)(typescript@5.2.2)(utf-8-validate@5.0.10))
+      zustand:
+        specifier: 4.5.4
+        version: 4.5.4(@types/react@18.2.56)(react@18.2.0)
     devDependencies:
       '@commitlint/cli':
         specifier: ^19.4.1
@@ -6515,6 +6518,21 @@ packages:
     peerDependencies:
       '@types/react': '>=16.8'
       immer: '>=9.0'
+      react: '>=16.8'
+    peerDependenciesMeta:
+      '@types/react':
+        optional: true
+      immer:
+        optional: true
+      react:
+        optional: true
+
+  zustand@4.5.4:
+    resolution: {integrity: sha512-/BPMyLKJPtFEvVL0E9E9BTUM63MNyhPGlvxk1XjrfWTUlV+BR8jufjsovHzrtR6YNcBEcL7cMHovL1n9xHawEg==}
+    engines: {node: '>=12.7.0'}
+    peerDependencies:
+      '@types/react': '>=16.8'
+      immer: '>=9.0.6'
       react: '>=16.8'
     peerDependenciesMeta:
       '@types/react':
@@ -14410,6 +14428,13 @@ snapshots:
   yocto-queue@1.1.1: {}
 
   zustand@4.4.1(@types/react@18.2.56)(react@18.2.0):
+    dependencies:
+      use-sync-external-store: 1.2.0(react@18.2.0)
+    optionalDependencies:
+      '@types/react': 18.2.56
+      react: 18.2.0
+
+  zustand@4.5.4(@types/react@18.2.56)(react@18.2.0):
     dependencies:
       use-sync-external-store: 1.2.0(react@18.2.0)
     optionalDependencies:

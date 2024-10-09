@@ -1,15 +1,25 @@
-import { Header } from '@/components/Header';
 import 'mac-scrollbar/dist/mac-scrollbar.css';
 import './index.css';
-import Process from './components/Process';
+import TestProps from './components/TestProps';
 
-export default function Test() {
+const TestPage = () => {
+  const numbers = [{id:1,name:"jack"},{id:2,name:"eamon"}];
+  const strings = ['a', 'b', 'c'];
+
+  const handleNumberChange = (item: {id:number,name:string}) => {
+    console.log('Number changed:', item);
+  };
+
+  const handleStringChange = (item: string) => {
+    console.log('String changed:', item);
+  };
+
   return (
-    <div className="home-container">
-      <Header />
-      <div className="home-content">
-        <Process/>
-      </div>
+    <div>
+      <TestProps list={numbers} onChange={handleNumberChange} />
+      <TestProps list={strings} onChange={handleStringChange} />
     </div>
   );
-}
+};
+
+export default TestPage;
