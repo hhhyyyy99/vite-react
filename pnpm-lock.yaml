@@ -15,10 +15,10 @@ importers:
         specifier: 2.3.9
         version: 2.3.9(react-dom@18.2.0(react@18.2.0))(react@18.2.0)
       braft-extensions:
-        specifier: ^0.1.1
+        specifier: 0.1.1
         version: 0.1.1(draft-js-prism@1.0.6(prismjs@1.29.0))(draft-js@0.10.5(react-dom@18.2.0(react@18.2.0))(react@18.2.0))(draftjs-utils@0.9.4(draft-js@0.10.5(react-dom@18.2.0(react@18.2.0))(react@18.2.0))(immutable@3.7.6))(html-table-to-json@0.4.1)(immutable@3.7.6)(prismjs@1.29.0)(react-color@2.19.3(react@18.2.0))(react-dom@18.2.0(react@18.2.0))(react@18.2.0)
       braft-utils:
-        specifier: ^3.0.13
+        specifier: 3.0.13
         version: 3.0.13(braft-convert@2.3.0(react-dom@18.2.0(react@18.2.0))(react@18.2.0))(draft-js@0.10.5(react-dom@18.2.0(react@18.2.0))(react@18.2.0))(draftjs-utils@0.9.4(draft-js@0.10.5(react-dom@18.2.0(react@18.2.0))(react@18.2.0))(immutable@3.7.6))(immutable@3.7.6)
       crypto-js:
         specifier: 4.2.0

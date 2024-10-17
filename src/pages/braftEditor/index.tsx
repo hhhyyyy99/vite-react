@@ -12,6 +12,7 @@ import { ContentUtils } from 'braft-utils';
 import 'braft-extensions/dist/emoticon.css';
 // 引入表情包扩展模块和默认表情包列表
 import Emoticon, { defaultEmoticons } from 'braft-extensions/dist/emoticon';
+import {blockRendererFn} from "./CustomBlock.tsx";
 
 // 也可以使用自己的表情包资源，不受打包工具限制
 const emoticons = [
@@ -133,6 +134,8 @@ export default function BraftEditor() {
         ref={editorInstance}
         value={editorState}
         onChange={handleChange}
+        blockRendererFn={blockRendererFn}
+        converts={{ blockExportFn }}
         contentStyle={{ height: '100%', fontSize: 14 }}
         draftProps={{ handlePastedText }}
       />
