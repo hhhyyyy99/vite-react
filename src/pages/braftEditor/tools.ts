@@ -37,7 +37,6 @@ export const getMessageElemArray = (rawData: any) => {
   try {
     const data = JSON.parse(rawData);
     const { blocks, entityMap } = data; 
-
     const messageElementArray:any[] = [];
 
     blocks?.forEach((item:any) => {

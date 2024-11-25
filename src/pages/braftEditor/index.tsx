@@ -86,17 +86,14 @@ export default function BraftEditor() {
   };
   const getContent = () => {
     const content = editorState.toRAW();
-    console.log(content);
 
     const messageElemArray = getMessageElemArray(content);
     const renderArrary = sendMsg(messageElemArray);
-    console.log(renderArrary);
     setRenderArrary(renderArrary);
   };
 
   const setContent = (json: any) => {
     const { blocks, entityMap } = json;
-    console.log(blocks);
 
     // 将blocks数组中每一项的text组合成一个字符串
     const text = blocks.map((block: any) => block.text.trim()).join('');
@@ -118,8 +115,6 @@ export default function BraftEditor() {
     // @ts-ignore
     const editorElement = editorInstance.current?.containerNode;
     const el = document.querySelector(".bf-container .public-DraftEditor-content>div")
-
-    console.log({el});
     el!.scrollTop = 300
   };
   useEffect(() => {
